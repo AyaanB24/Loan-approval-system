@@ -1,0 +1,1801 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Education,Self_Employed,Loan_Status
+53974,19523,20980,360,1,Semiurban,Graduate,No,Approved
+28305,0,20000,240,1,Rural,Graduate,Yes,Approved
+66851,16012,20000,360,1,Semiurban,Graduate,No,Approved
+73238,0,29182,300,1,Rural,Graduate,No,Approved
+18279,58315,20000,360,0,Urban,Not Graduate,No,Rejected
+24958,0,20000,240,1,Semiurban,Graduate,No,Rejected
+49581,7838,27974,360,1,Urban,Graduate,No,Approved
+40063,25423,20000,420,1,Urban,Not Graduate,No,Approved
+46255,32715,42166,360,1,Semiurban,Graduate,No,Approved
+30963,29971,20000,180,1,Urban,Graduate,No,Approved
+71119,31240,20000,360,1,Rural,Graduate,No,Approved
+67734,0,20000,360,1,Rural,Graduate,No,Approved
+48132,0,20000,360,1,Rural,Graduate,Yes,Approved
+80104,0,26280,360,1,Semiurban,Graduate,No,Approved
+58361,0,20000,360,1,Semiurban,Graduate,No,Rejected
+30870,22874,20515,360,1,Semiurban,Graduate,No,Approved
+55659,20542,37621,360,1,Rural,Graduate,No,Approved
+29429,26644,20000,360,1,Rural,Not Graduate,No,Approved
+71087,7071,20000,180,0,Urban,Graduate,No,Rejected
+45526,28325,20679,360,1,Rural,Graduate,Yes,Approved
+42671,75977,53829,240,1,Urban,Graduate,No,Approved
+33629,19052,20000,360,1,Urban,Graduate,No,Approved
+83853,0,20000,360,1,Urban,Graduate,No,Rejected
+43296,22388,22446,300,1,Semiurban,Graduate,No,Approved
+37964,74805,35030,360,1,Semiurban,Graduate,No,Approved
+39379,0,20000,360,1,Semiurban,Graduate,No,Rejected
+60205,20790,20000,300,1,Urban,Graduate,No,Approved
+55571,10304,35671,240,1,Urban,Graduate,No,Approved
+56847,12297,20000,360,0,Semiurban,Graduate,No,Rejected
+57342,17418,20000,420,1,Semiurban,Graduate,Yes,Rejected
+130352,46311,29240,360,1,Urban,Graduate,Yes,Approved
+38366,0,20000,300,1,Rural,Graduate,No,Approved
+36466,0,20000,180,1,Semiurban,Graduate,No,Approved
+31552,13855,20000,120,1,Semiurban,Graduate,No,Approved
+62672,103251,48655,360,1,Urban,Graduate,No,Approved
+80170,13369,37704,420,1,Semiurban,Not Graduate,No,Approved
+44148,12091,20000,360,1,Semiurban,Graduate,No,Approved
+31155,0,20000,360,1,Rural,Graduate,No,Approved
+31390,47919,20000,420,1,Semiurban,Not Graduate,No,Approved
+63722,0,20000,360,1,Urban,Graduate,No,Approved
+66620,0,35279,300,1,Urban,Graduate,No,Approved
+60519,0,28126,360,1,Semiurban,Graduate,No,Approved
+33879,0,20000,240,0,Rural,Not Graduate,No,Rejected
+52127,18941,34016,360,1,Urban,Graduate,Yes,Approved
+49316,31706,27018,360,1,Urban,Graduate,No,Approved
+51791,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+70848,50396,57933,360,0,Semiurban,Not Graduate,No,Rejected
+51913,31275,36476,360,1,Rural,Not Graduate,No,Approved
+64594,0,20000,360,1,Urban,Graduate,No,Approved
+48167,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+53572,0,20000,240,1,Semiurban,Graduate,No,Approved
+63134,12021,20000,360,0,Urban,Graduate,No,Approved
+23169,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+39997,0,20000,300,1,Urban,Graduate,No,Approved
+37206,0,20000,360,1,Semiurban,Graduate,No,Approved
+34315,41528,28058,180,1,Semiurban,Graduate,No,Approved
+40861,0,20000,300,0,Urban,Not Graduate,Yes,Rejected
+95566,23011,27335,360,1,Urban,Graduate,No,Approved
+30773,0,20000,300,1,Urban,Not Graduate,No,Approved
+74219,22693,36802,360,1,Urban,Graduate,Yes,Approved
+20790,11622,20000,300,1,Semiurban,Graduate,Yes,Approved
+39706,9717,20000,240,0,Rural,Graduate,Yes,Approved
+50419,0,20000,120,1,Semiurban,Not Graduate,No,Approved
+61783,17245,20000,240,1,Urban,Graduate,Yes,Approved
+65604,74271,36032,420,1,Semiurban,Graduate,No,Approved
+68241,0,20000,360,1,Urban,Graduate,No,Approved
+39443,0,20000,360,1,Urban,Not Graduate,No,Approved
+37349,42568,39603,360,1,Urban,Not Graduate,No,Approved
+70392,28045,23255,360,1,Urban,Graduate,Yes,Approved
+42539,0,20000,240,0,Semiurban,Graduate,No,Approved
+25278,0,20000,300,1,Semiurban,Graduate,No,Approved
+27066,11419,20000,360,1,Urban,Graduate,No,Rejected
+29991,16497,24092,360,1,Rural,Not Graduate,No,Approved
+59198,15994,20000,360,1,Rural,Graduate,No,Approved
+49929,7306,20000,360,1,Urban,Graduate,No,Approved
+64954,14995,20000,360,1,Urban,Graduate,No,Approved
+37984,0,20000,240,1,Semiurban,Graduate,No,Approved
+50317,21293,20000,180,1,Rural,Graduate,No,Approved
+62962,0,25060,240,1,Semiurban,Graduate,No,Approved
+40196,0,20000,360,0,Urban,Graduate,No,Rejected
+58061,0,20000,360,0,Semiurban,Graduate,No,Approved
+33937,0,20000,420,1,Semiurban,Graduate,No,Approved
+39173,11462,20000,300,0,Semiurban,Graduate,No,Approved
+38823,0,20000,360,1,Urban,Graduate,No,Approved
+26265,6412,20000,360,0,Urban,Graduate,No,Approved
+58909,48833,52603,360,0,Semiurban,Graduate,No,Rejected
+37223,13696,20000,360,1,Semiurban,Graduate,No,Approved
+46911,46966,20000,240,1,Rural,Graduate,No,Approved
+58733,18698,41968,180,1,Semiurban,Graduate,No,Approved
+57776,49054,43216,420,1,Rural,Graduate,Yes,Approved
+64176,0,30985,360,1,Semiurban,Graduate,Yes,Approved
+44477,32770,33870,360,0,Semiurban,Graduate,No,Rejected
+38056,29833,28120,360,1,Semiurban,Graduate,No,Approved
+44879,0,20000,360,0,Rural,Graduate,No,Rejected
+20745,0,20000,420,1,Rural,Graduate,No,Approved
+23281,0,20000,180,1,Rural,Graduate,No,Approved
+24713,68927,39565,180,1,Urban,Graduate,No,Approved
+28892,0,20000,360,1,Rural,Graduate,No,Approved
+56494,0,20106,360,1,Rural,Graduate,No,Approved
+30193,18223,20000,240,1,Urban,Graduate,No,Approved
+38890,23902,20112,120,1,Rural,Graduate,No,Approved
+86997,0,32726,300,1,Urban,Graduate,No,Approved
+39301,22479,20000,300,1,Semiurban,Graduate,No,Approved
+66437,0,30296,120,1,Urban,Graduate,No,Approved
+29788,5959,20000,240,1,Semiurban,Graduate,No,Approved
+42251,18155,20000,360,1,Rural,Graduate,No,Approved
+29554,0,20000,360,1,Urban,Graduate,Yes,Approved
+39627,5356,20000,360,0,Urban,Graduate,No,Approved
+69797,19847,45886,360,1,Semiurban,Not Graduate,No,Approved
+20351,25375,20000,300,1,Urban,Graduate,No,Approved
+57442,26074,29941,420,1,Semiurban,Graduate,No,Approved
+52267,26823,24814,360,1,Urban,Graduate,No,Approved
+35060,0,20000,360,0,Urban,Not Graduate,No,Rejected
+23293,6956,20000,300,1,Rural,Graduate,No,Approved
+48273,71787,60484,300,1,Urban,Graduate,No,Approved
+36165,8664,22849,360,1,Urban,Graduate,No,Approved
+52140,0,20000,360,0,Urban,Graduate,No,Rejected
+47122,11149,20421,120,1,Rural,Graduate,No,Approved
+100595,0,20000,420,1,Urban,Not Graduate,No,Approved
+41569,11576,20000,360,1,Semiurban,Not Graduate,No,Approved
+28530,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+50820,19846,29614,240,1,Urban,Graduate,No,Approved
+51823,13177,20000,360,1,Semiurban,Graduate,Yes,Approved
+89537,8646,41227,360,1,Urban,Graduate,No,Approved
+69623,21752,20934,180,0,Urban,Graduate,No,Approved
+55343,0,21765,360,0,Semiurban,Graduate,No,Rejected
+94126,24324,45272,360,0,Urban,Graduate,No,Approved
+26354,113384,28238,360,1,Semiurban,Graduate,Yes,Rejected
+34301,0,20000,240,1,Semiurban,Not Graduate,No,Approved
+29889,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+38673,0,20000,360,1,Rural,Graduate,No,Approved
+24081,4642,20000,180,0,Urban,Graduate,No,Approved
+63251,7147,21071,180,1,Semiurban,Graduate,No,Approved
+41912,44265,20708,240,1,Urban,Graduate,No,Approved
+23018,0,20000,300,1,Urban,Graduate,No,Approved
+28639,11054,20000,360,1,Urban,Graduate,No,Approved
+54203,0,20000,360,0,Rural,Graduate,No,Approved
+69724,8575,29242,240,1,Urban,Not Graduate,No,Approved
+121593,0,52368,420,1,Rural,Not Graduate,No,Rejected
+188840,17408,91972,240,1,Urban,Graduate,No,Approved
+56892,9662,20000,360,1,Semiurban,Graduate,No,Approved
+28999,0,20000,420,1,Urban,Graduate,No,Approved
+16758,10438,20000,360,0,Semiurban,Graduate,No,Approved
+53024,25995,20000,360,1,Rural,Graduate,Yes,Approved
+31564,0,20000,360,1,Urban,Graduate,No,Approved
+38201,0,20000,240,1,Semiurban,Graduate,No,Rejected
+34759,27388,20000,120,0,Urban,Graduate,No,Approved
+43583,0,20000,360,1,Urban,Graduate,No,Approved
+77782,0,20000,180,1,Semiurban,Not Graduate,No,Approved
+50281,25067,31656,360,1,Semiurban,Graduate,No,Approved
+43211,28789,20000,300,1,Semiurban,Graduate,No,Rejected
+28364,0,20000,360,1,Urban,Not Graduate,No,Rejected
+20872,0,20000,360,1,Urban,Graduate,No,Approved
+36922,10433,21719,360,1,Semiurban,Graduate,No,Approved
+45442,9873,25045,360,0,Urban,Not Graduate,No,Rejected
+108946,30897,37618,240,1,Semiurban,Graduate,No,Approved
+49639,24624,28236,180,1,Semiurban,Graduate,No,Approved
+74736,24803,20146,360,1,Urban,Graduate,No,Approved
+36693,21952,21182,360,1,Urban,Graduate,No,Approved
+26403,0,20000,360,1,Semiurban,Not Graduate,No,Rejected
+29341,29363,20000,360,1,Semiurban,Graduate,No,Approved
+32922,34703,20000,360,1,Rural,Graduate,No,Approved
+129530,0,64444,300,1,Rural,Graduate,No,Approved
+31437,0,20000,300,1,Semiurban,Not Graduate,Yes,Approved
+69736,47615,42933,360,1,Urban,Graduate,No,Approved
+30230,0,20000,360,1,Semiurban,Graduate,No,Approved
+72923,0,20000,420,1,Semiurban,Not Graduate,Yes,Approved
+56094,0,20000,360,0,Urban,Graduate,Yes,Approved
+43253,21438,33015,360,1,Rural,Graduate,No,Approved
+45727,0,21023,360,1,Rural,Graduate,No,Approved
+34054,29465,20000,180,1,Urban,Not Graduate,No,Approved
+57764,0,25187,360,1,Rural,Graduate,No,Approved
+37482,0,20000,360,1,Semiurban,Graduate,No,Approved
+25893,18953,20000,360,0,Semiurban,Not Graduate,No,Rejected
+25250,0,20000,120,1,Rural,Graduate,No,Approved
+50657,12815,20000,360,1,Semiurban,Graduate,No,Approved
+99505,0,20000,420,0,Rural,Graduate,Yes,Approved
+50352,0,20806,120,1,Semiurban,Not Graduate,No,Approved
+44049,0,20000,240,1,Urban,Graduate,Yes,Approved
+53487,5936,29792,240,1,Semiurban,Graduate,No,Approved
+87280,0,34539,360,1,Semiurban,Graduate,Yes,Approved
+51808,5454,27172,360,1,Semiurban,Graduate,No,Approved
+38283,0,20000,240,0,Urban,Not Graduate,No,Approved
+79302,128000,101782,360,1,Rural,Graduate,No,Approved
+57286,13951,20000,360,1,Urban,Graduate,No,Approved
+97457,0,33829,360,1,Semiurban,Graduate,No,Approved
+50917,33860,28159,360,1,Urban,Graduate,No,Approved
+25907,0,20000,360,0,Semiurban,Graduate,Yes,Rejected
+24180,44781,20000,360,1,Rural,Not Graduate,No,Approved
+102996,0,37092,300,0,Semiurban,Graduate,No,Rejected
+106656,11588,51968,360,1,Rural,Graduate,Yes,Approved
+42780,15922,20000,360,1,Urban,Graduate,No,Approved
+38796,0,20000,360,1,Semiurban,Graduate,No,Approved
+94042,15380,29309,360,1,Urban,Graduate,No,Approved
+27409,12737,20000,360,1,Rural,Graduate,No,Rejected
+30349,0,20000,360,0,Urban,Not Graduate,No,Approved
+63500,7403,20509,300,1,Semiurban,Not Graduate,No,Approved
+38584,23811,20000,360,0,Urban,Not Graduate,No,Rejected
+46516,5163,20000,300,1,Urban,Graduate,No,Approved
+43112,13215,20000,120,1,Semiurban,Graduate,No,Approved
+54832,0,24466,240,1,Urban,Not Graduate,No,Approved
+91637,22295,57128,120,0,Semiurban,Graduate,No,Approved
+48702,27261,26248,420,1,Semiurban,Graduate,No,Approved
+63519,0,20000,420,1,Rural,Not Graduate,Yes,Approved
+17429,0,20000,360,1,Urban,Graduate,No,Approved
+45552,34451,38803,180,0,Semiurban,Graduate,No,Approved
+31109,0,20000,360,0,Rural,Graduate,No,Rejected
+25977,34520,20000,360,1,Urban,Graduate,No,Approved
+30592,30494,20000,300,0,Rural,Graduate,No,Approved
+39720,0,20071,360,1,Urban,Graduate,No,Approved
+72376,7039,38464,360,1,Rural,Not Graduate,No,Approved
+24670,24204,20000,120,0,Semiurban,Graduate,No,Approved
+47321,26430,34711,360,1,Urban,Graduate,No,Approved
+36960,0,20000,360,1,Rural,Graduate,No,Approved
+39844,0,20000,240,1,Urban,Not Graduate,No,Approved
+75457,9561,37524,360,1,Semiurban,Not Graduate,Yes,Approved
+60373,0,20608,360,0,Urban,Graduate,No,Approved
+88606,17157,30306,360,1,Rural,Not Graduate,Yes,Approved
+43297,0,21940,420,1,Urban,Graduate,No,Approved
+33388,23449,27150,360,1,Semiurban,Graduate,No,Approved
+41879,4931,20000,360,1,Semiurban,Graduate,No,Approved
+52386,9305,23272,360,1,Semiurban,Graduate,No,Approved
+50754,46452,43502,360,1,Semiurban,Graduate,No,Rejected
+27708,0,20000,360,1,Semiurban,Graduate,No,Rejected
+48700,7701,30589,180,1,Rural,Graduate,No,Approved
+52029,14320,27118,360,1,Semiurban,Not Graduate,No,Approved
+156121,18580,25657,360,0,Semiurban,Graduate,No,Rejected
+114793,0,21723,360,1,Semiurban,Not Graduate,Yes,Approved
+30960,12772,20633,360,1,Rural,Graduate,No,Rejected
+40622,0,22283,360,1,Semiurban,Not Graduate,No,Approved
+23099,53322,20000,360,1,Semiurban,Graduate,Yes,Approved
+35118,13872,20000,120,0,Urban,Graduate,No,Approved
+54257,0,24064,180,1,Urban,Graduate,No,Approved
+83184,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+32861,0,20000,360,0,Urban,Graduate,No,Rejected
+34064,0,20000,240,1,Rural,Graduate,No,Rejected
+16636,0,20000,240,1,Urban,Not Graduate,No,Approved
+43128,32450,37540,300,1,Semiurban,Graduate,No,Approved
+28002,0,20000,360,1,Semiurban,Graduate,No,Approved
+36166,14424,20000,360,0,Rural,Graduate,Yes,Rejected
+30611,0,20000,360,0,Rural,Graduate,No,Rejected
+44567,0,20000,240,1,Urban,Graduate,No,Approved
+20056,0,20000,180,1,Rural,Graduate,No,Rejected
+23059,35884,29405,180,0,Semiurban,Graduate,No,Approved
+129578,2871,53823,360,1,Rural,Graduate,Yes,Approved
+25136,0,20000,180,1,Urban,Graduate,No,Rejected
+27544,20158,20000,300,1,Urban,Not Graduate,No,Approved
+112614,16828,68414,420,1,Urban,Graduate,No,Approved
+188044,0,70655,360,1,Urban,Graduate,No,Approved
+26573,21748,20000,360,1,Urban,Graduate,No,Rejected
+39075,0,20000,240,1,Semiurban,Graduate,No,Approved
+54937,0,20000,300,1,Rural,Graduate,No,Approved
+106913,15186,51747,420,0,Semiurban,Graduate,No,Rejected
+29036,0,20000,360,0,Semiurban,Graduate,No,Rejected
+41451,0,20000,360,1,Urban,Graduate,No,Rejected
+67719,17258,42796,420,0,Rural,Not Graduate,No,Approved
+57451,0,23327,360,1,Rural,Graduate,No,Approved
+38927,53758,20000,300,1,Urban,Graduate,No,Approved
+43729,14615,20000,360,1,Rural,Graduate,No,Approved
+24102,35283,31432,180,1,Rural,Graduate,No,Approved
+41593,42718,45182,180,1,Rural,Graduate,No,Approved
+41033,17247,31199,120,0,Urban,Not Graduate,No,Rejected
+52127,15561,20000,360,1,Rural,Graduate,No,Approved
+35719,0,20000,360,1,Rural,Graduate,No,Approved
+58474,0,25837,300,1,Rural,Graduate,No,Approved
+75819,32793,47659,300,1,Urban,Graduate,No,Approved
+50242,21199,20000,360,1,Rural,Not Graduate,No,Approved
+55207,0,20662,360,1,Rural,Graduate,No,Approved
+47835,8204,20000,300,1,Urban,Graduate,No,Rejected
+46632,0,20000,300,1,Urban,Graduate,No,Approved
+32980,80855,23662,360,1,Rural,Not Graduate,Yes,Approved
+54280,0,20000,360,0,Rural,Not Graduate,No,Approved
+44503,0,20000,360,1,Rural,Graduate,No,Approved
+127353,0,64938,300,1,Urban,Graduate,No,Approved
+99231,0,43174,240,1,Rural,Not Graduate,No,Approved
+56118,0,29143,360,1,Urban,Graduate,No,Approved
+32329,0,20000,300,1,Urban,Graduate,No,Rejected
+27338,0,20000,360,1,Semiurban,Graduate,No,Approved
+82599,0,21582,120,1,Rural,Graduate,Yes,Approved
+52898,0,20000,360,1,Urban,Graduate,No,Approved
+58716,0,20000,360,1,Urban,Graduate,No,Approved
+20183,0,20000,420,1,Urban,Graduate,No,Approved
+72778,0,33521,360,1,Rural,Graduate,No,Approved
+57996,0,28658,420,0,Urban,Graduate,No,Rejected
+27364,0,20000,180,1,Urban,Not Graduate,No,Approved
+37185,0,20000,360,1,Urban,Not Graduate,No,Approved
+52923,122719,35225,120,1,Semiurban,Graduate,No,Approved
+47819,33072,20000,420,0,Semiurban,Graduate,Yes,Approved
+40528,10223,21240,360,1,Semiurban,Graduate,No,Approved
+44370,27276,24864,120,0,Urban,Graduate,No,Rejected
+41318,10728,22159,120,1,Urban,Graduate,No,Approved
+50173,0,20000,360,0,Semiurban,Not Graduate,Yes,Rejected
+94496,14131,59526,300,1,Rural,Graduate,No,Approved
+13602,19227,20000,360,1,Rural,Graduate,No,Rejected
+41619,4863,20000,240,1,Semiurban,Graduate,No,Approved
+50753,8067,28806,360,1,Urban,Graduate,No,Approved
+53749,18165,20000,360,1,Rural,Graduate,Yes,Rejected
+39006,13552,22700,360,1,Semiurban,Graduate,No,Approved
+20066,23774,21729,240,1,Urban,Not Graduate,No,Approved
+54581,0,25467,420,1,Semiurban,Graduate,No,Approved
+106844,29729,63547,360,1,Rural,Graduate,No,Rejected
+22331,0,20000,360,0,Semiurban,Graduate,No,Approved
+70590,56949,59815,360,1,Semiurban,Graduate,No,Approved
+39827,5426,20000,360,1,Rural,Graduate,No,Approved
+45277,0,20000,360,1,Urban,Graduate,No,Approved
+28130,24153,20000,360,0,Semiurban,Graduate,No,Approved
+39714,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+87031,22483,41775,360,1,Semiurban,Graduate,No,Approved
+61678,26742,29507,300,1,Rural,Not Graduate,No,Approved
+107099,18256,63714,360,1,Rural,Graduate,Yes,Approved
+82056,8791,36050,360,1,Rural,Not Graduate,No,Rejected
+57570,0,20000,360,1,Rural,Graduate,No,Approved
+107698,0,30831,420,1,Urban,Graduate,Yes,Approved
+57568,0,21436,420,1,Rural,Graduate,No,Approved
+69386,0,30677,360,1,Urban,Not Graduate,No,Rejected
+40443,8215,20000,360,1,Rural,Graduate,Yes,Approved
+48144,0,20000,360,1,Rural,Graduate,No,Approved
+33364,0,20000,420,1,Rural,Graduate,No,Approved
+74982,22192,40557,360,1,Semiurban,Graduate,No,Approved
+26487,12809,20000,180,0,Semiurban,Graduate,Yes,Rejected
+67882,0,20000,300,1,Urban,Graduate,No,Approved
+42552,22620,28658,360,1,Rural,Graduate,Yes,Approved
+81814,42832,41282,360,1,Semiurban,Graduate,No,Approved
+66864,0,20000,360,1,Urban,Graduate,No,Approved
+111738,18757,52923,360,1,Semiurban,Not Graduate,No,Approved
+66222,0,27975,360,1,Rural,Graduate,Yes,Approved
+21926,0,20000,360,1,Rural,Graduate,Yes,Rejected
+45155,15011,27508,360,1,Rural,Graduate,No,Approved
+26567,0,20000,300,1,Urban,Graduate,No,Rejected
+36360,0,20000,360,1,Semiurban,Graduate,No,Approved
+96316,6705,26562,360,1,Semiurban,Graduate,No,Approved
+63324,0,20000,360,1,Urban,Graduate,No,Approved
+33340,8609,20000,300,0,Semiurban,Not Graduate,Yes,Rejected
+28665,0,20000,360,0,Semiurban,Graduate,No,Approved
+47370,5890,22604,180,1,Rural,Graduate,No,Approved
+26005,6921,20000,240,0,Semiurban,Graduate,No,Approved
+33788,63173,25675,360,1,Rural,Graduate,No,Approved
+54164,11550,20000,180,1,Rural,Graduate,No,Approved
+81190,0,33209,420,0,Semiurban,Graduate,No,Approved
+62455,28272,20000,360,1,Urban,Graduate,Yes,Approved
+15525,0,20000,180,1,Urban,Graduate,No,Rejected
+53965,6213,27461,360,1,Urban,Graduate,No,Approved
+48271,15341,25567,360,1,Rural,Graduate,No,Approved
+56878,0,20000,360,0,Urban,Graduate,No,Approved
+101294,99950,50269,360,1,Rural,Graduate,No,Approved
+17320,0,20000,360,1,Urban,Graduate,No,Approved
+35111,8660,20000,180,1,Urban,Graduate,No,Approved
+61922,8704,20000,120,1,Semiurban,Graduate,No,Approved
+21826,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+94699,46482,46685,420,1,Urban,Graduate,No,Approved
+55649,98294,48186,360,1,Urban,Graduate,No,Approved
+70008,0,20000,360,0,Rural,Not Graduate,Yes,Rejected
+35452,7156,20000,120,1,Urban,Not Graduate,Yes,Approved
+68913,0,20000,360,1,Rural,Graduate,No,Approved
+77875,15201,20647,300,1,Semiurban,Graduate,No,Approved
+52145,0,20000,360,1,Semiurban,Graduate,No,Approved
+52183,11431,20000,360,1,Urban,Not Graduate,Yes,Approved
+53091,21056,37084,300,1,Semiurban,Graduate,No,Approved
+30810,0,20000,180,1,Rural,Graduate,No,Approved
+43442,0,20000,360,1,Semiurban,Graduate,No,Approved
+43338,14454,20000,300,1,Rural,Not Graduate,No,Approved
+56052,8340,29195,360,1,Semiurban,Graduate,Yes,Approved
+75351,28741,57010,360,1,Semiurban,Graduate,No,Approved
+28054,0,20000,300,1,Urban,Not Graduate,No,Approved
+43914,0,20000,360,1,Rural,Graduate,No,Approved
+94949,31353,26911,180,1,Rural,Graduate,No,Rejected
+32633,6666,20000,240,1,Semiurban,Graduate,No,Approved
+31424,6608,20000,360,0,Rural,Graduate,No,Approved
+51385,10627,22426,360,0,Rural,Graduate,No,Rejected
+69934,8609,26011,360,0,Semiurban,Graduate,No,Approved
+46886,0,20000,240,1,Semiurban,Graduate,No,Approved
+88248,0,20000,360,1,Rural,Graduate,No,Approved
+70352,38926,40513,360,1,Semiurban,Graduate,No,Approved
+69848,23802,20000,420,0,Urban,Not Graduate,No,Rejected
+60838,0,23770,360,1,Semiurban,Graduate,No,Approved
+142525,0,61356,420,0,Semiurban,Not Graduate,No,Approved
+42257,25055,27117,240,1,Rural,Graduate,No,Approved
+17824,0,20000,360,1,Rural,Graduate,Yes,Approved
+100714,0,47519,360,0,Semiurban,Not Graduate,No,Rejected
+37433,19548,24046,360,1,Urban,Not Graduate,Yes,Approved
+49108,0,20000,360,1,Rural,Graduate,No,Approved
+87429,10032,20000,360,1,Rural,Graduate,No,Approved
+21610,0,20000,420,1,Semiurban,Graduate,No,Approved
+25571,0,20000,240,0,Semiurban,Graduate,No,Rejected
+21620,17406,20000,420,0,Urban,Graduate,No,Rejected
+31851,0,20000,360,0,Rural,Graduate,No,Approved
+57585,4541,20000,360,1,Rural,Graduate,No,Rejected
+59971,0,20000,360,1,Semiurban,Not Graduate,No,Rejected
+53242,17535,26423,300,1,Rural,Graduate,No,Approved
+23668,10841,20000,420,1,Rural,Not Graduate,No,Approved
+15385,95674,46714,360,1,Semiurban,Graduate,Yes,Approved
+47863,0,20000,420,1,Semiurban,Not Graduate,No,Approved
+37181,0,20000,420,1,Rural,Graduate,Yes,Approved
+58134,0,20000,360,1,Semiurban,Graduate,No,Approved
+65312,4438,31621,360,1,Semiurban,Graduate,Yes,Approved
+49829,0,26505,360,1,Rural,Graduate,Yes,Approved
+67162,0,21601,120,1,Urban,Graduate,No,Approved
+52053,0,20000,360,1,Semiurban,Graduate,No,Rejected
+60140,0,20000,360,1,Urban,Graduate,No,Approved
+33248,0,20000,360,1,Urban,Graduate,No,Approved
+42778,0,20501,360,1,Semiurban,Not Graduate,No,Approved
+51249,0,20000,360,1,Rural,Not Graduate,No,Approved
+69138,13114,43998,120,1,Urban,Graduate,No,Approved
+38600,0,20000,360,1,Semiurban,Graduate,No,Approved
+59884,0,20000,360,1,Rural,Graduate,No,Approved
+41044,8988,24081,300,1,Semiurban,Graduate,No,Approved
+44072,8681,20000,300,0,Semiurban,Graduate,No,Rejected
+69437,0,31227,360,0,Urban,Graduate,No,Rejected
+17914,8740,20000,300,0,Urban,Graduate,Yes,Approved
+25027,6035,20000,360,0,Urban,Graduate,Yes,Rejected
+22892,21027,20000,180,1,Urban,Not Graduate,Yes,Approved
+15212,21252,20000,360,0,Semiurban,Graduate,No,Rejected
+33672,59311,44163,240,1,Semiurban,Graduate,No,Approved
+66818,0,20000,360,1,Urban,Graduate,No,Approved
+40670,22187,20000,360,1,Urban,Graduate,Yes,Approved
+51274,22447,33839,360,0,Urban,Graduate,No,Rejected
+78655,15098,28988,360,1,Urban,Graduate,No,Approved
+88194,30365,58879,360,1,Semiurban,Graduate,No,Approved
+45108,0,20000,240,1,Rural,Not Graduate,No,Approved
+89297,22679,42617,360,0,Urban,Graduate,Yes,Approved
+48738,0,20000,360,1,Rural,Not Graduate,No,Approved
+31196,14041,20000,360,0,Rural,Graduate,No,Rejected
+35056,6923,22355,360,1,Semiurban,Graduate,No,Approved
+22910,10258,20000,360,1,Semiurban,Graduate,No,Approved
+30446,11668,20000,360,1,Semiurban,Graduate,No,Approved
+39267,8211,20000,300,1,Rural,Graduate,No,Approved
+68578,24537,20379,300,0,Rural,Graduate,Yes,Approved
+106507,41674,54466,180,1,Rural,Not Graduate,No,Approved
+24018,9551,20000,360,1,Semiurban,Graduate,No,Approved
+56306,21991,35213,360,1,Rural,Not Graduate,No,Approved
+28298,0,20000,360,1,Urban,Graduate,No,Approved
+58563,14568,20000,360,0,Rural,Graduate,No,Approved
+43786,0,20000,240,1,Semiurban,Graduate,No,Approved
+19364,27483,20000,360,1,Semiurban,Graduate,No,Approved
+72808,11213,36640,180,0,Semiurban,Graduate,No,Rejected
+34878,36613,20000,360,1,Urban,Not Graduate,No,Approved
+36088,0,20000,360,0,Rural,Not Graduate,Yes,Approved
+27904,0,20000,360,1,Semiurban,Graduate,No,Approved
+34062,7500,20000,180,1,Urban,Graduate,No,Approved
+57262,0,26786,300,0,Rural,Graduate,No,Rejected
+42581,0,21071,360,1,Urban,Graduate,No,Approved
+54598,21836,20000,240,1,Urban,Graduate,No,Approved
+55477,86438,77572,360,1,Semiurban,Graduate,No,Approved
+87897,0,20000,360,1,Urban,Not Graduate,No,Approved
+39556,0,20000,300,1,Semiurban,Graduate,No,Approved
+22951,14435,20000,300,1,Semiurban,Graduate,Yes,Approved
+77829,25054,22674,360,1,Rural,Graduate,No,Approved
+39771,10031,20000,360,1,Rural,Not Graduate,Yes,Approved
+79619,0,20000,360,1,Rural,Graduate,No,Approved
+56051,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+43785,0,20000,180,1,Semiurban,Graduate,No,Approved
+55128,29169,40143,360,0,Rural,Not Graduate,No,Approved
+118953,0,48977,360,1,Semiurban,Graduate,No,Approved
+126368,0,46433,360,1,Rural,Graduate,No,Approved
+48209,16662,20000,360,1,Semiurban,Graduate,No,Approved
+50357,51850,47756,360,1,Rural,Graduate,No,Approved
+78166,35500,20000,360,1,Urban,Graduate,No,Approved
+31073,14405,20000,360,1,Semiurban,Graduate,No,Approved
+54714,18099,20000,360,1,Urban,Not Graduate,Yes,Approved
+46055,20677,26716,360,1,Rural,Graduate,No,Approved
+54213,0,20000,300,1,Semiurban,Graduate,No,Approved
+31257,6977,20000,360,0,Urban,Graduate,No,Approved
+21742,6126,20000,360,1,Rural,Graduate,No,Approved
+17240,9690,20000,300,0,Semiurban,Graduate,No,Rejected
+27273,9179,20000,360,1,Rural,Graduate,No,Rejected
+37415,11491,20000,360,0,Rural,Graduate,No,Rejected
+40509,0,20000,360,0,Semiurban,Not Graduate,No,Rejected
+118169,0,45906,360,0,Rural,Not Graduate,No,Approved
+79291,0,27413,240,1,Semiurban,Graduate,No,Approved
+29384,0,20000,120,1,Urban,Graduate,No,Rejected
+55100,0,22074,360,1,Rural,Not Graduate,No,Approved
+38354,0,20000,360,1,Rural,Graduate,No,Approved
+40681,27350,20000,360,1,Urban,Graduate,No,Approved
+50968,10860,20000,420,0,Semiurban,Graduate,Yes,Rejected
+62768,20194,26872,300,0,Urban,Not Graduate,Yes,Approved
+39623,0,20000,300,1,Semiurban,Graduate,No,Approved
+77703,0,32050,360,1,Semiurban,Graduate,No,Approved
+26954,0,20000,120,1,Urban,Graduate,No,Rejected
+46772,0,20943,360,1,Rural,Graduate,No,Approved
+162248,0,37141,360,1,Urban,Graduate,No,Approved
+51900,16223,25845,420,0,Semiurban,Graduate,No,Approved
+92776,0,42644,360,1,Urban,Graduate,No,Approved
+48724,0,20000,180,0,Rural,Not Graduate,No,Approved
+61622,9193,20000,180,1,Semiurban,Graduate,No,Approved
+45376,16244,21009,180,1,Rural,Not Graduate,No,Approved
+42968,16064,32346,420,1,Urban,Graduate,No,Approved
+32076,0,20000,360,0,Rural,Graduate,Yes,Approved
+57328,15932,20000,360,1,Rural,Graduate,No,Approved
+30985,0,20000,240,0,Urban,Graduate,No,Rejected
+64182,33610,24959,360,1,Semiurban,Graduate,No,Approved
+78507,16824,20000,240,0,Semiurban,Graduate,No,Rejected
+55600,23846,31752,360,0,Semiurban,Not Graduate,No,Rejected
+40644,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+57983,26916,29091,300,0,Rural,Not Graduate,No,Rejected
+40209,0,20000,360,1,Semiurban,Graduate,No,Approved
+73062,0,20000,300,1,Semiurban,Graduate,No,Rejected
+19359,0,20000,360,1,Semiurban,Graduate,No,Approved
+39692,27231,20000,420,1,Rural,Graduate,No,Approved
+17933,0,20000,360,1,Rural,Graduate,No,Rejected
+22751,21407,20000,360,1,Urban,Graduate,No,Approved
+89738,0,47338,360,1,Rural,Graduate,No,Approved
+71660,11425,26377,300,0,Semiurban,Graduate,No,Approved
+33013,11616,20000,360,1,Semiurban,Graduate,No,Approved
+22670,0,20000,360,0,Semiurban,Not Graduate,No,Rejected
+12000,0,20000,240,1,Urban,Graduate,No,Rejected
+35923,0,20000,360,1,Semiurban,Graduate,No,Approved
+149015,17114,59372,360,1,Urban,Graduate,No,Approved
+57454,0,20000,360,1,Urban,Graduate,No,Approved
+35646,3825,20000,300,0,Urban,Not Graduate,No,Rejected
+58293,15464,34457,360,1,Urban,Not Graduate,Yes,Approved
+22043,16153,20000,360,1,Rural,Graduate,No,Rejected
+40428,16120,26492,300,1,Urban,Graduate,No,Approved
+48911,48588,29734,240,1,Urban,Not Graduate,No,Approved
+44742,7700,20000,360,0,Semiurban,Graduate,Yes,Approved
+68158,0,24273,360,1,Rural,Graduate,No,Approved
+55019,2897,20000,360,1,Rural,Graduate,No,Approved
+64267,0,20000,300,0,Semiurban,Graduate,No,Approved
+33509,13671,20000,360,1,Semiurban,Graduate,No,Approved
+71751,12620,33320,360,1,Urban,Graduate,No,Approved
+101915,39159,68331,300,1,Semiurban,Not Graduate,No,Approved
+29270,32940,28136,420,1,Semiurban,Graduate,No,Approved
+30452,0,20000,120,1,Rural,Not Graduate,No,Approved
+88537,0,39136,240,1,Rural,Graduate,No,Approved
+42538,0,20000,360,1,Rural,Graduate,No,Approved
+91476,17786,20000,360,1,Urban,Graduate,No,Approved
+37706,10170,20000,300,1,Semiurban,Graduate,No,Approved
+93753,0,20000,360,0,Urban,Not Graduate,No,Rejected
+49668,0,20000,300,1,Urban,Graduate,No,Approved
+52783,0,20000,360,0,Urban,Not Graduate,No,Approved
+98821,0,46493,360,0,Semiurban,Graduate,No,Rejected
+39197,0,20000,420,1,Urban,Graduate,Yes,Rejected
+29681,10554,21202,360,1,Urban,Graduate,No,Approved
+37597,7868,24576,360,0,Urban,Graduate,No,Approved
+57938,0,29084,360,1,Rural,Graduate,No,Approved
+21992,5244,20000,300,1,Semiurban,Graduate,No,Approved
+63322,26509,44491,300,1,Rural,Graduate,No,Approved
+36004,0,20000,420,1,Rural,Graduate,No,Rejected
+80898,0,39801,240,1,Urban,Graduate,No,Approved
+14776,0,20000,360,1,Urban,Graduate,No,Approved
+31967,0,20000,240,1,Rural,Graduate,No,Approved
+20754,20326,21186,360,1,Rural,Graduate,No,Rejected
+31364,10460,20000,240,1,Urban,Graduate,No,Approved
+52516,0,20000,420,1,Rural,Graduate,No,Approved
+42786,14099,20000,360,1,Rural,Graduate,No,Approved
+41290,0,20000,180,1,Urban,Graduate,No,Approved
+43200,3318,20000,360,1,Urban,Graduate,No,Approved
+51412,44070,52261,360,1,Semiurban,Graduate,No,Approved
+28736,0,20000,300,0,Semiurban,Graduate,Yes,Rejected
+65466,0,33424,300,1,Semiurban,Graduate,No,Approved
+64092,26666,20698,360,1,Rural,Graduate,Yes,Approved
+56096,26661,20000,360,1,Urban,Graduate,No,Approved
+60909,0,20000,300,1,Urban,Graduate,No,Approved
+53760,0,20000,360,1,Semiurban,Graduate,No,Approved
+123851,0,20000,300,0,Rural,Graduate,No,Approved
+44721,11777,25462,180,1,Rural,Not Graduate,Yes,Approved
+40239,39690,43841,360,0,Rural,Graduate,No,Rejected
+32478,35677,23030,180,1,Semiurban,Graduate,No,Approved
+28410,10999,20000,300,1,Rural,Not Graduate,No,Approved
+25659,10791,20000,360,1,Urban,Not Graduate,Yes,Rejected
+30436,11477,20000,300,1,Rural,Graduate,No,Approved
+45075,0,20000,240,0,Urban,Not Graduate,No,Approved
+54746,8955,20764,360,1,Semiurban,Graduate,No,Approved
+47789,0,20000,360,1,Urban,Graduate,No,Approved
+32291,0,20000,360,1,Urban,Graduate,No,Approved
+71832,16953,42801,360,0,Semiurban,Graduate,No,Rejected
+66497,36572,20754,360,1,Rural,Graduate,No,Approved
+43190,14574,20000,300,1,Urban,Graduate,No,Approved
+34085,0,20000,360,1,Rural,Graduate,No,Approved
+60672,9099,20000,240,1,Rural,Graduate,No,Approved
+51033,36755,31316,300,0,Rural,Graduate,No,Rejected
+23270,0,20000,360,1,Urban,Graduate,No,Approved
+45133,0,22524,360,1,Rural,Not Graduate,Yes,Approved
+52880,17156,27020,360,1,Semiurban,Graduate,No,Approved
+30277,0,20000,120,1,Semiurban,Graduate,No,Approved
+51079,11774,20000,240,1,Semiurban,Graduate,No,Approved
+23195,0,20000,360,1,Semiurban,Graduate,No,Approved
+88554,0,22102,360,0,Urban,Graduate,No,Rejected
+84882,8898,46094,360,1,Urban,Graduate,No,Approved
+41307,0,20000,120,1,Semiurban,Graduate,No,Approved
+55518,16280,20000,240,1,Semiurban,Graduate,No,Approved
+14665,202366,49909,360,1,Urban,Graduate,Yes,Approved
+26768,0,20000,360,1,Urban,Not Graduate,No,Approved
+40497,13816,27882,120,1,Semiurban,Graduate,Yes,Approved
+27872,48729,20000,180,1,Semiurban,Graduate,No,Approved
+65704,4970,20000,300,1,Rural,Not Graduate,No,Approved
+121626,19265,25691,180,1,Rural,Graduate,No,Approved
+26509,72846,46189,360,1,Rural,Graduate,No,Approved
+31195,16625,20000,240,0,Rural,Not Graduate,No,Approved
+52209,0,20000,360,1,Rural,Graduate,No,Rejected
+101046,13669,29938,360,1,Urban,Not Graduate,No,Approved
+25933,49919,20000,420,1,Urban,Graduate,No,Approved
+52551,23465,36888,420,1,Urban,Graduate,Yes,Approved
+111773,10025,22697,300,1,Semiurban,Graduate,No,Approved
+21103,11163,20000,120,0,Semiurban,Graduate,No,Approved
+25212,12188,20000,300,1,Rural,Not Graduate,No,Approved
+38050,23222,20000,360,1,Urban,Graduate,No,Approved
+36320,0,20000,180,0,Semiurban,Not Graduate,No,Rejected
+68875,0,31694,360,0,Semiurban,Graduate,No,Approved
+52365,24815,24792,300,1,Urban,Not Graduate,No,Approved
+19891,7100,20000,240,1,Urban,Not Graduate,No,Rejected
+59718,7118,20000,360,0,Rural,Graduate,No,Approved
+35340,0,20000,360,0,Urban,Not Graduate,No,Rejected
+85968,0,20000,360,1,Rural,Graduate,No,Approved
+34501,15400,20000,360,0,Rural,Graduate,No,Approved
+34352,22313,21381,180,1,Rural,Graduate,No,Approved
+60460,8133,25595,240,0,Rural,Graduate,No,Approved
+67252,8804,40888,360,1,Urban,Graduate,No,Approved
+57820,16884,20062,360,1,Semiurban,Graduate,No,Approved
+20763,25657,20000,360,1,Rural,Graduate,No,Rejected
+60371,37914,33603,180,1,Urban,Graduate,No,Approved
+28383,27583,21673,420,0,Semiurban,Graduate,No,Approved
+52205,18988,20000,300,1,Semiurban,Graduate,No,Approved
+23544,0,20000,360,0,Semiurban,Graduate,No,Rejected
+57771,0,20000,360,0,Semiurban,Not Graduate,No,Approved
+31661,12612,21257,420,1,Semiurban,Not Graduate,No,Approved
+25193,24028,23420,360,1,Semiurban,Not Graduate,Yes,Approved
+65686,22826,25963,420,1,Urban,Graduate,No,Approved
+52365,0,28017,240,0,Semiurban,Graduate,No,Approved
+34728,10405,24412,360,1,Semiurban,Not Graduate,No,Approved
+93579,0,20000,360,1,Rural,Graduate,No,Approved
+37740,19062,20000,360,1,Urban,Graduate,No,Approved
+47354,6688,20003,360,1,Semiurban,Graduate,No,Approved
+53055,93815,20294,420,1,Rural,Graduate,No,Approved
+34633,17672,20000,240,1,Urban,Graduate,No,Approved
+58463,0,20000,360,1,Semiurban,Graduate,No,Approved
+36096,23853,31678,360,1,Rural,Graduate,No,Approved
+38270,13942,20000,360,0,Rural,Graduate,Yes,Approved
+89686,10837,44552,420,1,Semiurban,Graduate,No,Approved
+28297,79632,29574,360,1,Urban,Graduate,Yes,Approved
+14645,0,20000,180,0,Semiurban,Graduate,No,Rejected
+101038,0,49349,420,1,Rural,Graduate,No,Approved
+158527,0,20000,360,0,Semiurban,Graduate,No,Approved
+38387,0,20000,360,1,Semiurban,Graduate,No,Approved
+18404,0,20000,360,1,Rural,Graduate,No,Approved
+40174,9995,20524,360,1,Urban,Graduate,No,Approved
+40644,21989,20000,360,1,Rural,Not Graduate,No,Approved
+42567,0,20000,360,1,Urban,Graduate,No,Approved
+27325,0,20000,240,1,Urban,Graduate,No,Rejected
+61586,0,20000,240,1,Rural,Not Graduate,No,Approved
+59980,10236,20000,360,1,Urban,Graduate,No,Approved
+22758,0,20000,120,1,Urban,Graduate,No,Approved
+65226,26329,20000,360,1,Semiurban,Graduate,No,Approved
+124903,79543,46894,300,1,Semiurban,Graduate,No,Approved
+50642,0,20000,360,1,Rural,Graduate,Yes,Approved
+39659,15061,23327,180,1,Rural,Graduate,No,Rejected
+43558,18146,20000,240,0,Urban,Graduate,No,Rejected
+62650,0,20000,360,0,Rural,Graduate,No,Approved
+20318,0,20000,300,1,Rural,Graduate,No,Rejected
+50459,14179,34297,240,0,Semiurban,Graduate,Yes,Rejected
+38661,18470,20000,300,0,Rural,Not Graduate,No,Rejected
+113205,22257,24713,240,1,Urban,Graduate,No,Approved
+42890,26575,20858,360,1,Urban,Graduate,No,Rejected
+103838,0,20000,240,1,Urban,Graduate,No,Approved
+27452,16580,20000,360,1,Rural,Graduate,No,Approved
+61814,47377,20000,360,1,Semiurban,Graduate,Yes,Approved
+54356,0,21094,360,1,Urban,Graduate,No,Approved
+30726,25190,20993,360,1,Semiurban,Graduate,No,Approved
+50775,60077,43518,300,1,Urban,Not Graduate,Yes,Approved
+83451,13760,43549,420,1,Semiurban,Not Graduate,No,Approved
+39918,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+20699,0,20000,300,1,Rural,Graduate,No,Approved
+46239,178032,96424,360,0,Semiurban,Graduate,No,Rejected
+30237,7826,20000,360,1,Rural,Graduate,Yes,Approved
+39564,11131,21517,360,1,Urban,Not Graduate,No,Approved
+44839,24177,20000,360,1,Semiurban,Graduate,No,Rejected
+20564,23815,20000,180,0,Rural,Graduate,No,Rejected
+21472,0,20000,360,1,Urban,Not Graduate,No,Rejected
+58770,0,20000,360,1,Semiurban,Graduate,No,Approved
+36283,0,20000,360,1,Rural,Graduate,No,Rejected
+13615,0,20000,300,1,Urban,Graduate,No,Approved
+67963,29533,20000,180,0,Urban,Graduate,No,Approved
+53143,0,27590,420,1,Semiurban,Graduate,No,Approved
+33102,0,20000,240,1,Urban,Graduate,Yes,Approved
+24783,42639,23789,300,0,Semiurban,Graduate,No,Approved
+69647,0,20000,360,1,Semiurban,Graduate,No,Approved
+55143,0,20000,360,1,Rural,Not Graduate,No,Approved
+146334,21126,83932,240,1,Rural,Graduate,No,Approved
+57050,0,22453,360,1,Semiurban,Graduate,No,Approved
+56168,28242,31326,360,1,Semiurban,Graduate,No,Approved
+43040,18431,20000,360,1,Urban,Graduate,No,Approved
+69013,0,20000,180,1,Semiurban,Graduate,Yes,Approved
+62947,8656,29668,180,0,Semiurban,Graduate,No,Rejected
+85036,10653,51810,360,1,Urban,Graduate,No,Approved
+36307,21068,20000,240,1,Urban,Graduate,No,Approved
+37836,17697,20000,360,1,Semiurban,Graduate,No,Approved
+37050,20968,20000,120,1,Urban,Graduate,No,Approved
+68158,25606,27332,360,1,Urban,Not Graduate,Yes,Approved
+95724,11625,58589,360,0,Rural,Not Graduate,No,Rejected
+37412,0,20000,360,0,Semiurban,Graduate,No,Rejected
+38029,14952,20000,420,1,Rural,Graduate,Yes,Approved
+54217,13314,20000,360,1,Urban,Not Graduate,No,Approved
+41441,25278,20000,360,1,Semiurban,Not Graduate,No,Approved
+73643,0,20000,360,0,Semiurban,Graduate,No,Approved
+15822,0,20000,360,1,Urban,Graduate,No,Rejected
+31357,35838,31254,420,1,Semiurban,Graduate,No,Approved
+32030,5344,20000,420,1,Semiurban,Graduate,No,Approved
+15310,39431,20000,360,1,Urban,Graduate,No,Approved
+29362,0,20000,240,1,Urban,Graduate,No,Approved
+30053,0,20000,420,0,Urban,Graduate,Yes,Rejected
+42339,22121,20000,420,1,Rural,Not Graduate,No,Approved
+79557,0,30255,360,0,Rural,Graduate,No,Approved
+41455,13007,20419,360,1,Rural,Not Graduate,No,Approved
+28430,0,20000,360,1,Semiurban,Not Graduate,Yes,Rejected
+45373,0,20000,420,0,Rural,Not Graduate,No,Rejected
+77157,0,20000,180,0,Urban,Graduate,No,Rejected
+29189,10306,20000,360,0,Urban,Graduate,No,Approved
+30119,22922,20000,180,0,Semiurban,Graduate,No,Approved
+60968,40562,29141,300,1,Rural,Not Graduate,No,Approved
+41926,15853,26272,240,0,Semiurban,Graduate,No,Rejected
+63627,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+46326,8452,20000,300,0,Urban,Graduate,No,Approved
+65303,0,35616,420,1,Rural,Graduate,No,Approved
+28372,0,20000,360,0,Urban,Graduate,Yes,Rejected
+46360,23756,22735,360,1,Rural,Graduate,No,Rejected
+42145,0,20000,300,1,Rural,Graduate,No,Approved
+26014,30833,20000,120,1,Urban,Graduate,No,Approved
+22016,15250,20000,360,1,Rural,Graduate,No,Rejected
+64806,13838,31836,360,1,Rural,Graduate,No,Approved
+39401,9220,20000,360,1,Semiurban,Graduate,No,Rejected
+28547,48335,20000,360,0,Semiurban,Graduate,No,Rejected
+44526,0,20000,360,1,Rural,Graduate,No,Approved
+80133,0,38522,360,1,Rural,Graduate,No,Approved
+15603,0,20000,420,1,Rural,Not Graduate,No,Approved
+22734,13531,20000,360,1,Semiurban,Graduate,No,Approved
+29942,58960,24172,360,1,Rural,Graduate,No,Approved
+94030,0,34736,360,0,Urban,Graduate,No,Approved
+53404,11203,20000,120,1,Urban,Graduate,No,Approved
+67394,16461,20000,300,0,Rural,Graduate,No,Approved
+26977,24093,20000,360,0,Semiurban,Not Graduate,No,Rejected
+27245,13236,20000,360,0,Rural,Graduate,No,Rejected
+57812,5993,20000,300,1,Semiurban,Graduate,Yes,Approved
+47953,9838,20000,360,1,Rural,Graduate,No,Approved
+60682,44220,31481,240,1,Urban,Graduate,No,Approved
+42613,0,20000,300,1,Semiurban,Not Graduate,No,Approved
+53290,24730,27640,420,1,Semiurban,Not Graduate,No,Approved
+50307,0,20000,360,1,Urban,Graduate,No,Approved
+67733,11366,26054,300,1,Urban,Graduate,No,Approved
+68690,0,20000,360,0,Semiurban,Graduate,No,Approved
+21428,0,20000,360,1,Rural,Not Graduate,No,Approved
+15856,0,20000,360,1,Urban,Graduate,No,Rejected
+75421,38844,34681,420,1,Semiurban,Graduate,Yes,Approved
+82463,0,24342,360,1,Urban,Not Graduate,No,Approved
+28570,0,20000,360,1,Urban,Not Graduate,No,Approved
+19097,18164,20000,360,1,Semiurban,Graduate,No,Approved
+48900,0,22901,360,1,Rural,Graduate,No,Approved
+72897,21628,20000,300,1,Rural,Graduate,No,Approved
+110508,77977,48712,120,1,Semiurban,Not Graduate,Yes,Approved
+59744,22820,20000,360,0,Semiurban,Graduate,No,Approved
+39010,0,20000,360,0,Urban,Graduate,No,Rejected
+30373,0,20000,360,1,Urban,Graduate,No,Approved
+46887,18518,31210,180,1,Urban,Graduate,No,Approved
+40391,0,20000,360,1,Urban,Graduate,No,Approved
+28646,0,20000,240,1,Urban,Graduate,No,Rejected
+124667,17675,25589,360,0,Rural,Graduate,No,Rejected
+109851,17382,20000,360,0,Semiurban,Graduate,Yes,Rejected
+80443,0,36703,360,1,Semiurban,Not Graduate,No,Approved
+29971,12339,20000,420,0,Semiurban,Graduate,No,Rejected
+70292,9289,20000,240,1,Rural,Graduate,No,Approved
+63387,149739,111231,360,1,Semiurban,Not Graduate,No,Approved
+57666,0,30770,420,1,Semiurban,Graduate,No,Approved
+84952,0,32054,360,1,Semiurban,Not Graduate,No,Approved
+63258,6330,20000,360,0,Urban,Graduate,Yes,Rejected
+66517,0,31593,360,1,Semiurban,Graduate,No,Approved
+63305,9384,20000,360,1,Semiurban,Graduate,No,Approved
+54917,0,20000,360,1,Semiurban,Graduate,No,Approved
+19809,37479,20000,360,0,Semiurban,Graduate,No,Rejected
+48540,25095,37606,420,0,Rural,Graduate,No,Approved
+35704,26846,32144,360,0,Semiurban,Graduate,Yes,Approved
+25227,5219,20000,360,1,Semiurban,Graduate,No,Rejected
+104534,0,20000,300,1,Semiurban,Not Graduate,No,Approved
+106929,7830,36377,360,1,Rural,Graduate,No,Approved
+89539,0,20000,360,1,Urban,Graduate,No,Approved
+52707,36867,44627,360,0,Urban,Graduate,No,Approved
+89170,27015,20000,300,1,Semiurban,Graduate,No,Approved
+46901,9912,20000,360,0,Semiurban,Graduate,No,Approved
+51397,20053,29794,360,1,Semiurban,Graduate,No,Approved
+27588,12969,20000,420,0,Urban,Graduate,No,Rejected
+56419,0,26927,240,1,Semiurban,Graduate,Yes,Approved
+48001,15140,20000,240,0,Urban,Graduate,No,Rejected
+24952,4328,20000,360,1,Urban,Graduate,Yes,Approved
+45498,39547,20000,240,0,Semiurban,Graduate,Yes,Approved
+44879,17038,20000,420,1,Urban,Graduate,Yes,Approved
+110506,0,33991,360,0,Semiurban,Graduate,No,Rejected
+71627,0,20000,360,1,Semiurban,Graduate,No,Approved
+46887,0,20000,300,1,Semiurban,Graduate,Yes,Approved
+52545,0,20000,360,1,Urban,Graduate,No,Approved
+47630,3720,20000,420,0,Rural,Graduate,No,Rejected
+42302,23980,28317,360,1,Rural,Graduate,No,Approved
+27735,25936,20000,120,1,Semiurban,Graduate,No,Approved
+43369,15682,23348,300,1,Urban,Graduate,No,Rejected
+32594,8075,20000,420,0,Semiurban,Graduate,No,Approved
+25587,19192,20000,420,1,Semiurban,Not Graduate,No,Approved
+59599,0,26604,240,1,Semiurban,Graduate,No,Approved
+56264,8786,20000,360,0,Semiurban,Graduate,Yes,Rejected
+19779,0,20000,180,1,Urban,Graduate,No,Approved
+43963,32557,20000,360,1,Urban,Graduate,No,Rejected
+75202,13991,42579,240,1,Urban,Graduate,No,Approved
+77531,13180,31960,360,1,Urban,Not Graduate,No,Approved
+76298,70847,48131,420,1,Rural,Graduate,No,Approved
+47509,0,25458,240,1,Rural,Graduate,No,Approved
+31082,22863,20000,360,0,Semiurban,Graduate,No,Approved
+27718,13922,20855,180,1,Semiurban,Not Graduate,No,Rejected
+55018,11879,28355,300,1,Rural,Graduate,No,Approved
+55941,3903,30989,180,1,Urban,Graduate,Yes,Approved
+86502,35529,62054,300,0,Rural,Not Graduate,No,Approved
+79062,24682,56640,420,1,Rural,Graduate,No,Approved
+43762,15908,20000,180,1,Semiurban,Graduate,No,Approved
+25662,16382,20000,360,1,Urban,Graduate,No,Approved
+40008,30191,32434,180,1,Urban,Graduate,Yes,Rejected
+51755,6074,22551,360,1,Semiurban,Graduate,No,Approved
+42319,11933,20000,360,1,Urban,Graduate,Yes,Approved
+35334,0,20000,420,1,Urban,Graduate,No,Approved
+52648,62321,22073,240,1,Semiurban,Not Graduate,Yes,Approved
+36611,0,20000,240,0,Urban,Graduate,No,Approved
+34494,0,20000,360,1,Rural,Graduate,No,Approved
+54149,6250,20000,360,1,Semiurban,Graduate,No,Approved
+38447,0,20000,360,1,Rural,Graduate,No,Approved
+52427,0,20000,120,1,Semiurban,Graduate,No,Approved
+53164,0,21898,300,1,Semiurban,Graduate,No,Approved
+26986,70357,46907,360,1,Rural,Not Graduate,No,Approved
+37012,22444,20000,360,1,Semiurban,Graduate,No,Approved
+92979,25144,49522,360,1,Semiurban,Not Graduate,No,Approved
+26694,0,20000,300,0,Semiurban,Graduate,No,Rejected
+16882,29899,22487,300,1,Rural,Graduate,No,Approved
+19078,13818,20000,420,1,Rural,Graduate,No,Approved
+47286,14789,20000,360,1,Semiurban,Graduate,No,Approved
+47327,27659,30844,240,1,Urban,Graduate,No,Approved
+44071,0,20000,420,1,Urban,Not Graduate,No,Approved
+83517,55156,47034,360,1,Semiurban,Graduate,No,Approved
+12927,20490,20000,300,1,Urban,Graduate,Yes,Approved
+56390,44208,32185,360,0,Semiurban,Graduate,No,Rejected
+98665,8495,39665,360,1,Urban,Graduate,Yes,Approved
+27137,9450,20000,360,0,Rural,Graduate,No,Approved
+38859,7996,20000,360,1,Semiurban,Not Graduate,No,Approved
+32488,0,20000,360,1,Semiurban,Graduate,No,Approved
+30355,18886,20000,240,0,Semiurban,Graduate,Yes,Rejected
+39871,13029,20000,420,0,Rural,Graduate,No,Approved
+92521,0,20000,360,1,Rural,Graduate,No,Approved
+112639,7431,57747,360,1,Semiurban,Graduate,No,Approved
+39686,0,20000,360,0,Urban,Graduate,Yes,Approved
+116358,13018,36403,360,1,Urban,Graduate,No,Approved
+47433,0,20000,360,1,Rural,Graduate,No,Approved
+108204,53261,47887,360,0,Urban,Not Graduate,No,Approved
+44588,0,23673,360,1,Semiurban,Graduate,No,Approved
+49658,43872,30785,360,1,Urban,Graduate,Yes,Approved
+55572,12416,21163,360,0,Rural,Not Graduate,No,Approved
+214454,0,93464,300,1,Urban,Graduate,No,Approved
+70166,17347,23678,360,1,Urban,Graduate,Yes,Approved
+33207,5495,20000,360,1,Urban,Graduate,No,Approved
+74244,49013,31015,180,1,Urban,Not Graduate,No,Approved
+39196,0,20000,360,1,Semiurban,Graduate,No,Approved
+36861,30409,28335,300,1,Urban,Not Graduate,No,Rejected
+72123,0,35547,300,1,Semiurban,Graduate,No,Approved
+47331,0,24021,300,1,Semiurban,Not Graduate,No,Approved
+53301,9830,31336,300,1,Urban,Graduate,No,Approved
+46944,42839,27231,300,1,Semiurban,Graduate,No,Approved
+54806,22426,20000,360,1,Semiurban,Graduate,No,Approved
+57181,0,22133,360,0,Urban,Not Graduate,No,Rejected
+18403,46664,34461,300,1,Semiurban,Not Graduate,No,Rejected
+64213,40515,44737,240,1,Rural,Graduate,No,Approved
+29104,30814,20000,360,1,Semiurban,Graduate,No,Approved
+23335,6666,20000,180,1,Urban,Graduate,No,Approved
+45341,0,20297,360,0,Urban,Graduate,No,Rejected
+48548,0,24938,360,1,Rural,Not Graduate,No,Approved
+33427,30010,28131,360,1,Semiurban,Graduate,No,Approved
+69487,20322,26488,360,1,Semiurban,Not Graduate,No,Approved
+24484,0,20000,360,1,Urban,Not Graduate,Yes,Approved
+38356,0,20000,420,1,Urban,Graduate,No,Approved
+35216,0,20000,360,1,Urban,Graduate,Yes,Approved
+45599,17375,33014,240,0,Semiurban,Not Graduate,No,Rejected
+53309,0,20000,300,1,Semiurban,Not Graduate,No,Approved
+28745,26113,20000,360,1,Semiurban,Graduate,No,Approved
+66016,23496,22977,360,1,Semiurban,Graduate,No,Approved
+48062,0,20000,360,1,Semiurban,Graduate,No,Approved
+18805,32647,20000,300,0,Rural,Not Graduate,No,Approved
+18213,13413,20000,300,1,Rural,Graduate,No,Approved
+46355,31973,38470,360,0,Urban,Graduate,No,Rejected
+41937,0,20000,360,0,Rural,Graduate,No,Rejected
+44372,0,20000,360,1,Semiurban,Graduate,No,Approved
+46008,0,20000,420,1,Urban,Graduate,No,Approved
+51962,3981,20000,240,0,Rural,Graduate,No,Rejected
+73488,17571,37874,360,1,Rural,Not Graduate,No,Approved
+27355,0,20000,420,1,Semiurban,Graduate,No,Approved
+26568,0,20000,360,0,Semiurban,Graduate,Yes,Approved
+27590,8481,20000,360,1,Semiurban,Not Graduate,No,Approved
+53567,0,22322,360,1,Semiurban,Graduate,No,Approved
+84760,0,20000,180,1,Rural,Graduate,No,Approved
+37910,48062,20000,360,0,Rural,Not Graduate,No,Approved
+14033,0,20000,360,1,Rural,Graduate,No,Rejected
+20580,0,20000,360,1,Semiurban,Not Graduate,Yes,Rejected
+31261,15172,20000,360,0,Semiurban,Not Graduate,No,Rejected
+35678,0,20000,360,0,Urban,Graduate,No,Rejected
+38329,23964,26012,300,1,Rural,Graduate,No,Approved
+47502,27252,36809,360,0,Semiurban,Graduate,No,Approved
+40149,101563,56169,360,1,Semiurban,Graduate,No,Approved
+77164,0,33867,120,1,Urban,Graduate,No,Approved
+33709,14951,20000,360,1,Semiurban,Graduate,Yes,Approved
+30825,0,20000,420,1,Rural,Not Graduate,No,Approved
+58680,20920,20000,360,1,Semiurban,Graduate,No,Approved
+22312,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+56221,17372,39689,360,1,Urban,Graduate,No,Approved
+48983,0,20000,360,1,Rural,Graduate,Yes,Rejected
+43444,0,20000,360,1,Urban,Graduate,No,Approved
+99945,35966,51879,360,1,Semiurban,Graduate,No,Approved
+34591,0,20000,180,1,Semiurban,Graduate,No,Approved
+125360,0,20058,420,0,Rural,Graduate,No,Approved
+41848,14466,20865,360,1,Urban,Not Graduate,No,Approved
+25261,98584,54683,360,1,Urban,Graduate,No,Approved
+48222,0,22035,360,1,Semiurban,Graduate,No,Approved
+27817,22216,20000,240,0,Semiurban,Not Graduate,No,Approved
+32505,10666,20000,360,1,Rural,Graduate,No,Approved
+56420,62940,55640,240,1,Semiurban,Graduate,No,Approved
+60881,33550,20000,120,1,Urban,Graduate,No,Approved
+34591,11217,20000,420,1,Semiurban,Graduate,No,Approved
+74903,25818,20000,300,0,Urban,Graduate,No,Rejected
+81276,21599,34575,360,0,Urban,Graduate,No,Approved
+92914,12561,20000,300,1,Urban,Graduate,No,Approved
+60121,0,25606,360,0,Urban,Graduate,No,Rejected
+89720,0,47820,360,1,Semiurban,Graduate,No,Approved
+18906,0,20000,300,1,Semiurban,Not Graduate,No,Rejected
+40031,17512,22562,360,0,Rural,Graduate,No,Approved
+30756,24385,20000,420,1,Urban,Graduate,No,Approved
+49376,21175,20000,360,1,Urban,Not Graduate,No,Approved
+35444,18795,23938,420,1,Semiurban,Graduate,No,Approved
+43055,11514,20000,360,0,Urban,Graduate,No,Rejected
+115087,0,60542,360,0,Urban,Graduate,No,Approved
+42982,8645,20000,300,1,Semiurban,Not Graduate,No,Approved
+56876,24327,20000,180,0,Urban,Graduate,No,Rejected
+41711,0,20000,360,1,Semiurban,Graduate,No,Approved
+48356,61802,21073,360,1,Rural,Not Graduate,No,Rejected
+46765,0,23154,360,1,Rural,Graduate,No,Approved
+57826,10779,28190,360,1,Semiurban,Graduate,Yes,Approved
+81581,9147,23005,300,0,Urban,Graduate,No,Approved
+102821,0,34704,360,1,Semiurban,Graduate,No,Approved
+54102,0,21709,300,1,Urban,Not Graduate,No,Approved
+61882,0,27988,420,1,Semiurban,Not Graduate,Yes,Approved
+26838,0,20000,300,0,Urban,Graduate,No,Rejected
+44704,21339,20000,240,0,Semiurban,Graduate,No,Approved
+73228,0,20000,360,1,Semiurban,Graduate,No,Approved
+70662,0,20000,240,0,Rural,Graduate,No,Approved
+51615,38558,27955,420,1,Rural,Not Graduate,Yes,Approved
+71358,7220,20000,360,1,Rural,Graduate,No,Approved
+59016,31504,25800,300,1,Rural,Graduate,No,Approved
+82963,11040,28082,240,1,Rural,Not Graduate,No,Approved
+53578,0,20000,420,1,Semiurban,Not Graduate,No,Approved
+39311,30476,35766,360,0,Semiurban,Graduate,No,Rejected
+54787,0,20250,360,1,Rural,Graduate,No,Approved
+12000,9490,20000,180,1,Urban,Graduate,No,Approved
+56038,27553,27427,420,1,Semiurban,Graduate,No,Approved
+12000,15008,20000,360,1,Urban,Graduate,No,Approved
+20389,16018,20000,360,1,Semiurban,Not Graduate,No,Approved
+57922,43939,36543,360,1,Rural,Graduate,No,Approved
+58642,0,20000,180,0,Urban,Graduate,No,Approved
+26690,19224,23411,420,1,Urban,Graduate,No,Approved
+33130,35180,32590,420,1,Semiurban,Graduate,No,Approved
+90027,31773,56730,360,1,Semiurban,Graduate,No,Approved
+36963,16127,20000,420,1,Semiurban,Graduate,No,Approved
+136845,0,23114,240,1,Semiurban,Not Graduate,No,Approved
+46587,5339,21318,240,1,Urban,Graduate,No,Approved
+56719,0,20000,180,1,Semiurban,Graduate,No,Approved
+101326,0,41308,360,1,Rural,Graduate,No,Approved
+49657,0,21962,180,1,Rural,Graduate,No,Approved
+28821,19005,20000,360,0,Rural,Not Graduate,No,Rejected
+44238,0,20000,240,0,Rural,Graduate,No,Rejected
+45840,0,20000,360,1,Semiurban,Graduate,No,Approved
+24220,0,20000,360,1,Urban,Graduate,Yes,Approved
+41242,20580,24746,360,1,Rural,Graduate,No,Approved
+32655,11016,20000,240,0,Semiurban,Graduate,No,Approved
+72671,0,22704,360,0,Rural,Not Graduate,No,Rejected
+47411,0,20183,300,1,Semiurban,Graduate,No,Approved
+40711,22095,20707,360,1,Semiurban,Graduate,No,Approved
+44313,0,20000,360,1,Semiurban,Graduate,No,Approved
+51901,6316,20000,360,1,Urban,Graduate,No,Approved
+62697,17936,34872,180,1,Urban,Graduate,No,Approved
+28858,23305,22003,360,1,Urban,Not Graduate,No,Approved
+28284,0,20000,420,0,Urban,Graduate,Yes,Rejected
+79241,22259,35544,360,1,Semiurban,Not Graduate,No,Approved
+38257,0,20000,420,1,Semiurban,Graduate,Yes,Approved
+23622,29243,20000,420,1,Semiurban,Graduate,No,Rejected
+57701,37816,41186,240,1,Urban,Not Graduate,Yes,Approved
+58245,21821,42378,360,1,Rural,Graduate,Yes,Approved
+22365,4930,20000,360,0,Rural,Graduate,No,Rejected
+52060,0,20000,360,1,Rural,Not Graduate,No,Approved
+66375,26777,34768,240,1,Semiurban,Not Graduate,No,Approved
+55810,18303,40488,420,1,Urban,Graduate,No,Approved
+63155,0,22470,360,1,Rural,Graduate,No,Approved
+23765,43044,20000,300,0,Semiurban,Graduate,No,Approved
+54661,19844,20000,360,1,Semiurban,Not Graduate,No,Approved
+40326,10164,23005,360,1,Urban,Graduate,No,Approved
+36985,36187,21266,360,0,Rural,Graduate,No,Approved
+70818,11223,20000,420,1,Rural,Graduate,Yes,Approved
+94850,11138,27181,300,1,Semiurban,Graduate,No,Approved
+110337,0,48639,360,1,Semiurban,Graduate,Yes,Rejected
+87650,0,27116,360,1,Urban,Graduate,No,Approved
+44237,0,21713,360,0,Semiurban,Graduate,No,Approved
+55232,23197,33781,360,1,Urban,Graduate,Yes,Approved
+67378,24926,49688,180,1,Semiurban,Graduate,Yes,Approved
+49423,31384,40389,240,1,Semiurban,Graduate,No,Approved
+49651,0,20000,360,1,Urban,Graduate,Yes,Approved
+69245,0,27461,360,1,Rural,Graduate,No,Approved
+45322,10788,20000,360,0,Urban,Graduate,No,Rejected
+32858,0,20000,300,1,Rural,Graduate,No,Rejected
+38218,0,20000,360,1,Semiurban,Graduate,No,Approved
+63214,25613,35456,420,0,Rural,Graduate,Yes,Rejected
+46697,0,22514,360,0,Semiurban,Graduate,No,Approved
+54902,0,20000,120,1,Urban,Graduate,No,Approved
+64321,20439,40816,360,1,Rural,Graduate,No,Approved
+38952,28269,20000,360,1,Rural,Graduate,No,Approved
+67037,0,20037,360,0,Semiurban,Graduate,No,Approved
+55929,16784,22717,300,1,Rural,Graduate,No,Approved
+25778,56926,22193,120,0,Semiurban,Graduate,No,Rejected
+93182,22426,42067,360,1,Urban,Graduate,No,Approved
+36667,24499,31297,360,1,Rural,Not Graduate,No,Approved
+21069,37464,20000,360,1,Semiurban,Graduate,No,Approved
+28237,23244,20000,240,1,Semiurban,Graduate,No,Approved
+28564,0,20000,360,1,Semiurban,Graduate,No,Approved
+47813,3272,22878,360,1,Rural,Graduate,No,Approved
+40886,0,20000,180,1,Urban,Graduate,No,Approved
+39669,0,20797,360,1,Semiurban,Graduate,No,Approved
+62784,0,20000,360,1,Urban,Graduate,No,Approved
+54893,0,20033,360,1,Semiurban,Not Graduate,Yes,Approved
+54269,0,20000,420,1,Semiurban,Graduate,No,Approved
+56767,44429,45930,360,1,Urban,Graduate,Yes,Approved
+62677,14667,20000,300,1,Urban,Graduate,No,Approved
+16953,0,20000,120,1,Urban,Not Graduate,No,Rejected
+39147,25697,28431,300,1,Rural,Graduate,No,Approved
+16375,51592,20000,240,0,Urban,Graduate,No,Approved
+47444,0,20000,360,1,Urban,Graduate,No,Approved
+46526,0,20000,360,1,Urban,Graduate,No,Approved
+77023,0,30275,360,1,Urban,Graduate,No,Approved
+82460,0,20000,300,1,Urban,Graduate,No,Approved
+51397,0,20000,360,1,Semiurban,Graduate,No,Approved
+36674,0,20000,120,0,Urban,Graduate,Yes,Rejected
+58858,30638,27019,360,1,Urban,Graduate,No,Approved
+36192,0,20000,180,0,Urban,Graduate,No,Rejected
+46599,0,20000,420,0,Urban,Graduate,Yes,Approved
+74858,0,20000,360,0,Rural,Not Graduate,No,Approved
+35677,41207,42269,240,1,Semiurban,Not Graduate,No,Approved
+68647,0,20000,360,0,Semiurban,Graduate,No,Approved
+64547,30328,20000,360,1,Urban,Graduate,No,Approved
+29487,0,20000,360,0,Urban,Graduate,No,Rejected
+74419,0,20000,360,1,Urban,Not Graduate,No,Approved
+65206,26640,20512,240,1,Urban,Graduate,No,Approved
+48968,0,26765,360,0,Semiurban,Graduate,No,Rejected
+32341,0,20000,180,1,Rural,Graduate,Yes,Approved
+30871,0,20000,360,1,Semiurban,Graduate,No,Approved
+36023,44709,24374,240,1,Urban,Not Graduate,No,Approved
+60503,8118,20000,360,0,Semiurban,Not Graduate,Yes,Approved
+29475,13327,20000,360,1,Urban,Graduate,No,Approved
+57527,19309,27982,180,1,Urban,Graduate,Yes,Approved
+25693,0,20000,360,1,Semiurban,Not Graduate,No,Rejected
+42279,13415,24187,360,0,Urban,Graduate,No,Approved
+49150,0,24651,240,0,Semiurban,Graduate,No,Approved
+150793,12264,34406,360,1,Semiurban,Graduate,No,Approved
+24074,57597,42089,360,1,Rural,Graduate,No,Approved
+94520,0,31484,360,0,Rural,Graduate,No,Approved
+50107,8938,20000,360,1,Rural,Graduate,No,Approved
+56804,0,27300,360,1,Semiurban,Not Graduate,No,Approved
+49356,27272,20000,360,0,Rural,Not Graduate,No,Approved
+57726,0,20307,240,0,Semiurban,Graduate,No,Approved
+43314,17512,25835,120,1,Semiurban,Graduate,No,Approved
+93708,18906,25450,180,1,Semiurban,Graduate,No,Approved
+37455,0,20000,360,1,Urban,Graduate,No,Approved
+80296,65359,30315,360,1,Semiurban,Graduate,No,Approved
+34225,23671,27671,360,0,Rural,Not Graduate,No,Approved
+45301,12359,20000,240,1,Urban,Graduate,No,Approved
+27874,0,20000,360,1,Urban,Graduate,No,Rejected
+58012,11061,20000,360,1,Urban,Not Graduate,No,Approved
+93308,8749,49429,360,1,Urban,Not Graduate,No,Rejected
+44930,5261,20000,180,1,Rural,Graduate,No,Approved
+42425,0,20956,360,1,Urban,Graduate,Yes,Approved
+27309,0,20000,240,1,Rural,Graduate,No,Rejected
+41770,7907,20000,240,0,Semiurban,Graduate,Yes,Rejected
+21708,0,20000,360,1,Rural,Graduate,No,Approved
+30086,7789,20000,360,1,Urban,Graduate,No,Rejected
+51993,1997,28341,360,1,Rural,Graduate,No,Approved
+87827,0,26100,360,0,Rural,Graduate,No,Approved
+179588,0,73748,420,1,Rural,Graduate,No,Approved
+35187,11804,20000,180,1,Urban,Graduate,No,Approved
+92869,0,30254,360,1,Semiurban,Graduate,No,Approved
+52418,11737,24216,300,1,Semiurban,Graduate,No,Approved
+43365,33411,38715,180,0,Semiurban,Graduate,Yes,Approved
+57391,17796,31179,360,1,Urban,Not Graduate,No,Approved
+48037,0,20000,360,1,Rural,Graduate,No,Approved
+49168,10049,23114,240,1,Urban,Graduate,No,Approved
+38330,17307,20746,360,0,Semiurban,Graduate,No,Approved
+23835,0,20000,360,0,Rural,Not Graduate,No,Rejected
+22227,20313,20000,360,1,Rural,Graduate,No,Approved
+63803,15285,23695,360,0,Rural,Graduate,No,Approved
+40830,9309,22108,360,1,Semiurban,Not Graduate,Yes,Rejected
+35027,36110,38130,360,1,Rural,Graduate,No,Approved
+46821,0,24906,360,1,Urban,Graduate,No,Approved
+68293,0,32052,360,1,Semiurban,Graduate,Yes,Approved
+50847,0,20000,360,1,Rural,Not Graduate,No,Approved
+34033,0,20000,180,0,Semiurban,Graduate,No,Approved
+84004,9825,20000,300,0,Rural,Graduate,Yes,Approved
+99510,0,31401,240,0,Rural,Not Graduate,No,Rejected
+59124,11676,20000,360,0,Semiurban,Graduate,No,Approved
+74411,0,20000,420,1,Rural,Graduate,Yes,Approved
+84638,0,45284,360,1,Rural,Graduate,No,Approved
+80214,0,39203,360,1,Urban,Graduate,Yes,Approved
+62615,0,20736,360,0,Urban,Graduate,No,Approved
+62144,11089,20000,360,1,Urban,Graduate,No,Approved
+59840,105292,68008,360,0,Rural,Not Graduate,Yes,Approved
+27537,33523,20000,360,1,Urban,Graduate,No,Approved
+65274,0,30124,360,1,Semiurban,Graduate,No,Approved
+24324,31466,30672,180,0,Rural,Graduate,No,Approved
+31844,0,20000,360,1,Urban,Graduate,Yes,Approved
+87178,10395,20489,360,0,Rural,Graduate,Yes,Approved
+69794,3003,20000,360,1,Semiurban,Graduate,No,Approved
+95221,0,20000,420,1,Urban,Graduate,No,Approved
+40929,0,20000,360,1,Semiurban,Graduate,No,Approved
+26820,0,20000,360,1,Semiurban,Graduate,No,Approved
+41547,0,20000,240,1,Semiurban,Graduate,No,Approved
+48971,45462,20989,360,1,Rural,Graduate,No,Approved
+48432,23563,20000,360,1,Urban,Graduate,Yes,Approved
+80352,31547,48057,420,1,Rural,Graduate,No,Approved
+39206,0,20000,360,1,Rural,Graduate,No,Approved
+55214,8377,31140,240,1,Rural,Graduate,No,Approved
+29012,0,20000,360,0,Urban,Graduate,No,Rejected
+57881,19354,20000,360,1,Urban,Graduate,No,Approved
+46700,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+32536,0,20000,360,0,Urban,Graduate,No,Rejected
+41639,11448,20000,360,1,Rural,Graduate,No,Approved
+42685,0,20000,360,0,Urban,Graduate,No,Approved
+40959,7345,20000,300,1,Rural,Graduate,Yes,Approved
+109124,6309,62724,180,1,Semiurban,Graduate,No,Approved
+44478,0,20000,360,1,Rural,Not Graduate,No,Approved
+41478,11908,20000,420,1,Urban,Graduate,No,Approved
+17038,39144,27150,360,0,Urban,Not Graduate,No,Rejected
+30357,22140,20000,300,0,Semiurban,Graduate,No,Approved
+41098,21714,20000,180,1,Rural,Not Graduate,No,Approved
+33550,10719,20533,300,1,Rural,Not Graduate,No,Approved
+90510,16569,23879,360,1,Semiurban,Not Graduate,No,Approved
+43081,23218,20000,360,1,Semiurban,Graduate,No,Approved
+86548,29772,34031,420,1,Rural,Not Graduate,No,Approved
+48032,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+47471,0,24182,360,1,Semiurban,Graduate,No,Approved
+44684,18135,24425,360,1,Urban,Graduate,No,Approved
+46715,0,20000,300,0,Semiurban,Graduate,No,Approved
+106406,0,20293,420,0,Semiurban,Graduate,No,Approved
+15315,0,20000,360,1,Semiurban,Graduate,No,Rejected
+17841,21760,20000,120,1,Rural,Graduate,No,Rejected
+35928,0,20000,120,1,Semiurban,Graduate,No,Approved
+46956,26977,36699,360,1,Urban,Graduate,Yes,Approved
+64942,24234,32169,360,1,Rural,Not Graduate,No,Approved
+58518,14129,33171,360,1,Semiurban,Graduate,No,Approved
+38776,0,20000,360,1,Urban,Not Graduate,No,Approved
+76050,26535,20000,360,1,Semiurban,Not Graduate,No,Approved
+76458,24307,41929,360,0,Semiurban,Graduate,No,Approved
+50937,12178,28859,420,1,Urban,Graduate,No,Approved
+74019,39206,30991,240,1,Semiurban,Graduate,No,Approved
+53150,0,20000,360,1,Rural,Graduate,Yes,Approved
+35614,11986,22287,300,0,Urban,Graduate,No,Rejected
+65183,0,20000,300,1,Urban,Graduate,No,Approved
+49173,33124,20785,360,1,Rural,Graduate,Yes,Approved
+46660,14036,23229,360,1,Rural,Graduate,No,Approved
+94563,0,20000,120,1,Urban,Graduate,No,Approved
+14380,20098,20000,360,0,Semiurban,Graduate,No,Rejected
+23612,0,20000,360,1,Semiurban,Graduate,No,Rejected
+26376,9561,20000,180,0,Semiurban,Not Graduate,No,Rejected
+39169,17403,20000,360,1,Urban,Graduate,No,Approved
+41266,0,20000,420,1,Semiurban,Graduate,No,Approved
+22618,0,20000,180,1,Rural,Graduate,No,Approved
+29060,39761,27615,240,1,Rural,Graduate,No,Approved
+30847,0,20000,420,1,Semiurban,Graduate,No,Approved
+151685,8601,53602,240,1,Urban,Graduate,Yes,Approved
+110728,22638,35957,180,1,Semiurban,Graduate,No,Approved
+38268,14348,20000,420,1,Semiurban,Not Graduate,No,Approved
+39163,0,20813,360,1,Urban,Graduate,No,Approved
+26860,14702,20000,360,1,Semiurban,Graduate,No,Approved
+18659,86620,30626,360,1,Semiurban,Not Graduate,No,Approved
+44086,0,20000,360,1,Rural,Graduate,No,Approved
+28884,0,20000,360,1,Urban,Not Graduate,No,Approved
+44769,0,20000,360,0,Urban,Graduate,No,Rejected
+21631,0,20000,360,1,Urban,Graduate,No,Approved
+32346,33856,20000,360,1,Semiurban,Graduate,No,Approved
+50078,31866,34583,360,1,Semiurban,Graduate,No,Approved
+55591,17441,33799,360,1,Rural,Graduate,No,Approved
+56976,0,20000,360,1,Urban,Not Graduate,No,Approved
+24740,0,20000,360,1,Rural,Graduate,No,Rejected
+70280,0,33745,360,1,Semiurban,Not Graduate,No,Approved
+31758,17071,20000,360,1,Urban,Graduate,No,Rejected
+63182,15810,20000,360,1,Rural,Graduate,Yes,Approved
+46393,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+24085,30554,20000,120,1,Rural,Not Graduate,No,Rejected
+40064,0,20000,300,0,Semiurban,Graduate,No,Rejected
+55569,0,20000,300,0,Urban,Graduate,No,Rejected
+62581,0,20000,360,1,Semiurban,Graduate,No,Approved
+43579,33073,38423,360,1,Urban,Graduate,Yes,Approved
+97271,21487,20000,300,0,Rural,Not Graduate,No,Approved
+75630,25686,30983,360,1,Semiurban,Graduate,No,Approved
+41225,0,20000,120,1,Urban,Graduate,No,Approved
+66840,0,33385,240,1,Urban,Graduate,No,Approved
+117974,11776,47645,360,1,Semiurban,Graduate,Yes,Approved
+119495,0,56284,360,1,Urban,Graduate,No,Approved
+25863,32796,20000,360,0,Urban,Graduate,Yes,Rejected
+29890,9037,20000,360,0,Urban,Graduate,No,Rejected
+95107,12303,56278,420,1,Semiurban,Not Graduate,No,Approved
+28058,20443,24187,180,1,Rural,Not Graduate,No,Rejected
+24715,133283,55470,360,1,Rural,Graduate,No,Approved
+36924,22265,20000,360,0,Semiurban,Graduate,No,Approved
+57051,55517,34106,240,1,Semiurban,Not Graduate,Yes,Approved
+44394,41939,20000,420,1,Rural,Not Graduate,No,Approved
+34123,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+33738,9023,20019,360,1,Semiurban,Graduate,No,Approved
+33126,0,20000,360,0,Semiurban,Graduate,No,Approved
+30572,6319,20000,360,1,Semiurban,Graduate,No,Approved
+139411,55305,49519,240,1,Semiurban,Graduate,No,Approved
+53788,20744,20000,360,1,Rural,Graduate,Yes,Approved
+71371,2821,31517,360,1,Urban,Graduate,No,Rejected
+36873,14209,20000,120,1,Semiurban,Graduate,Yes,Approved
+42648,0,20000,120,1,Rural,Graduate,No,Approved
+33107,0,20000,360,1,Semiurban,Graduate,No,Approved
+13058,0,20000,240,1,Semiurban,Graduate,No,Rejected
+24066,9947,20000,360,1,Semiurban,Graduate,No,Approved
+19553,7229,20000,360,1,Semiurban,Graduate,No,Rejected
+15837,0,20000,300,1,Semiurban,Not Graduate,Yes,Rejected
+26271,18437,20000,360,1,Urban,Graduate,No,Approved
+88078,0,29877,300,0,Rural,Graduate,No,Approved
+45646,42578,32880,420,1,Semiurban,Graduate,No,Approved
+86636,0,20000,360,0,Rural,Graduate,Yes,Rejected
+56799,0,20000,300,0,Semiurban,Graduate,No,Approved
+67889,18913,42130,360,1,Semiurban,Graduate,No,Rejected
+30260,6065,20000,360,1,Urban,Not Graduate,No,Rejected
+59964,0,23005,420,1,Rural,Graduate,No,Approved
+66157,18185,32223,360,1,Semiurban,Not Graduate,No,Approved
+35356,72174,51359,360,1,Semiurban,Graduate,No,Rejected
+60997,27051,38121,420,1,Semiurban,Graduate,Yes,Approved
+61192,5389,31843,240,1,Urban,Graduate,No,Approved
+35818,2044,20000,360,1,Rural,Graduate,No,Approved
+27203,0,20000,180,1,Semiurban,Not Graduate,No,Approved
+26413,16859,20000,360,1,Semiurban,Graduate,No,Approved
+48607,40090,23998,360,1,Urban,Graduate,Yes,Approved
+54555,0,20000,420,1,Rural,Graduate,No,Approved
+31875,0,20000,360,1,Urban,Not Graduate,No,Approved
+47229,0,20000,240,0,Urban,Graduate,No,Approved
+61320,13184,20507,360,0,Urban,Graduate,No,Rejected
+62739,13383,20000,360,1,Semiurban,Graduate,No,Approved
+98214,18355,26089,360,0,Urban,Graduate,No,Rejected
+86073,0,37731,360,1,Rural,Graduate,No,Approved
+28836,0,20000,300,1,Urban,Graduate,No,Approved
+104623,35660,64920,360,1,Semiurban,Not Graduate,No,Approved
+36139,13051,20000,120,1,Rural,Graduate,No,Approved
+76998,7116,40740,240,1,Semiurban,Graduate,No,Approved
+48177,71961,55051,420,0,Urban,Graduate,No,Approved
+38260,11811,20000,360,0,Urban,Graduate,No,Approved
+19581,12114,20000,300,1,Semiurban,Graduate,No,Approved
+42944,17222,20000,180,1,Semiurban,Not Graduate,No,Approved
+22059,18902,20000,420,1,Urban,Graduate,No,Approved
+74184,0,33875,180,1,Urban,Graduate,Yes,Approved
+96574,0,24081,300,1,Urban,Not Graduate,No,Approved
+31808,0,20000,240,1,Semiurban,Graduate,No,Approved
+53903,0,20000,120,1,Semiurban,Graduate,No,Approved
+32919,0,20000,300,0,Urban,Graduate,No,Rejected
+34487,67280,20000,420,1,Rural,Graduate,No,Approved
+67627,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+45775,27077,20000,360,1,Rural,Not Graduate,No,Approved
+107477,6873,42870,360,1,Semiurban,Not Graduate,No,Approved
+36995,12969,20000,360,1,Urban,Graduate,No,Approved
+75334,11264,26409,360,1,Rural,Not Graduate,No,Approved
+48862,0,20100,360,1,Semiurban,Graduate,No,Approved
+68321,11967,20000,360,1,Rural,Not Graduate,Yes,Approved
+37623,0,20000,360,1,Urban,Not Graduate,No,Approved
+45534,11438,25628,360,1,Urban,Not Graduate,No,Approved
+44115,0,22476,360,1,Semiurban,Not Graduate,No,Approved
+31216,0,20000,360,1,Urban,Not Graduate,No,Rejected
+64074,44298,20000,240,1,Rural,Graduate,No,Approved
+63711,4804,31478,360,1,Urban,Graduate,No,Approved
+62001,7180,34475,360,1,Urban,Graduate,Yes,Approved
+97513,4614,29223,300,1,Rural,Graduate,No,Approved
+93497,0,20000,360,1,Urban,Graduate,No,Approved
+38950,10218,20000,300,1,Rural,Not Graduate,No,Approved
+55774,0,20413,300,1,Semiurban,Graduate,No,Approved
+34568,0,20000,360,0,Rural,Not Graduate,No,Rejected
+47156,0,20000,300,1,Urban,Graduate,No,Rejected
+34966,0,20000,360,0,Rural,Not Graduate,No,Rejected
+101482,0,39507,360,0,Rural,Not Graduate,No,Rejected
+55524,23921,37691,360,1,Semiurban,Graduate,Yes,Rejected
+41997,0,20000,360,1,Urban,Graduate,No,Rejected
+82697,0,38776,360,1,Rural,Graduate,No,Approved
+16450,6153,20000,360,1,Semiurban,Not Graduate,No,Approved
+17734,0,20000,360,1,Semiurban,Not Graduate,No,Rejected
+68323,17496,31096,420,0,Urban,Graduate,Yes,Rejected
+48003,33114,25074,360,0,Semiurban,Graduate,No,Approved
+52586,33917,46686,360,1,Semiurban,Graduate,Yes,Rejected
+24670,28041,20000,420,1,Urban,Graduate,No,Approved
+46113,0,20000,360,1,Semiurban,Not Graduate,No,Rejected
+121989,0,33879,120,1,Semiurban,Graduate,Yes,Approved
+69260,14401,28995,300,1,Urban,Not Graduate,No,Approved
+50587,15665,20000,360,1,Semiurban,Not Graduate,No,Approved
+37769,75056,47985,240,0,Semiurban,Not Graduate,No,Approved
+38584,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+16781,15302,20000,360,1,Urban,Graduate,No,Approved
+52768,0,20000,360,0,Urban,Not Graduate,No,Rejected
+69971,0,20000,120,1,Semiurban,Graduate,No,Approved
+21888,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+33946,12452,20000,360,1,Semiurban,Graduate,Yes,Approved
+26753,0,20000,240,1,Rural,Graduate,No,Approved
+29338,5901,20000,360,1,Rural,Not Graduate,No,Approved
+47843,27356,33179,360,0,Rural,Not Graduate,No,Approved
+17145,28750,22067,360,0,Rural,Graduate,No,Rejected
+62621,25742,23740,360,1,Semiurban,Graduate,No,Approved
+66960,9806,20000,180,1,Rural,Graduate,No,Approved
+41335,0,20000,360,1,Rural,Graduate,No,Rejected
+14175,0,20000,360,1,Semiurban,Graduate,No,Rejected
+28904,14288,20000,180,1,Rural,Graduate,No,Rejected
+84271,0,29494,360,1,Rural,Graduate,No,Approved
+12290,0,20000,360,0,Rural,Graduate,Yes,Rejected
+39466,0,20000,360,1,Rural,Graduate,No,Approved
+26466,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+68610,0,20000,360,1,Urban,Graduate,No,Approved
+33723,0,20000,360,1,Urban,Graduate,No,Approved
+56608,8701,26045,180,0,Urban,Graduate,No,Rejected
+61171,0,20000,300,1,Semiurban,Graduate,No,Approved
+112577,34748,39898,420,1,Urban,Graduate,No,Approved
+42302,27035,34546,360,0,Semiurban,Graduate,No,Approved
+55854,0,25010,360,0,Semiurban,Not Graduate,No,Rejected
+22861,8356,20000,300,1,Semiurban,Not Graduate,No,Approved
+82570,12346,50070,360,1,Semiurban,Not Graduate,Yes,Approved
+32369,21816,20000,300,1,Semiurban,Not Graduate,Yes,Approved
+35626,0,20000,240,1,Rural,Graduate,No,Rejected
+46135,0,20000,240,1,Urban,Not Graduate,No,Approved
+22022,0,20000,360,0,Rural,Graduate,No,Rejected
+52042,14127,20000,360,0,Urban,Not Graduate,No,Approved
+74190,21126,20000,180,1,Urban,Not Graduate,No,Approved
+53670,54990,35403,180,1,Semiurban,Not Graduate,Yes,Approved
+21749,15990,20000,360,1,Rural,Graduate,No,Approved
+43940,41173,32801,360,1,Semiurban,Graduate,No,Approved
+66581,26677,20000,360,0,Semiurban,Graduate,No,Approved
+18931,0,20000,240,0,Urban,Graduate,Yes,Rejected
+27837,8337,20000,360,1,Urban,Not Graduate,No,Approved
+71022,0,28139,420,0,Urban,Graduate,No,Approved
+53085,0,27679,360,0,Semiurban,Graduate,No,Approved
+56826,16929,23635,240,1,Urban,Graduate,No,Approved
+113841,27729,20000,360,1,Urban,Graduate,No,Approved
+58390,0,20931,360,1,Rural,Graduate,No,Approved
+63945,22376,30320,180,1,Rural,Graduate,No,Approved
+171298,0,20000,300,0,Rural,Graduate,No,Rejected
+42082,0,20517,360,1,Semiurban,Graduate,No,Approved
+31793,0,20000,360,1,Urban,Graduate,No,Approved
+57259,18362,32904,360,1,Semiurban,Graduate,Yes,Approved
+57568,20497,25158,360,0,Semiurban,Graduate,No,Approved
+36213,0,20000,360,1,Urban,Graduate,No,Approved
+28409,0,20000,120,1,Rural,Graduate,No,Approved
+141312,0,76053,360,1,Rural,Graduate,No,Approved
+54551,0,20000,180,1,Urban,Graduate,Yes,Approved
+32810,12593,20000,360,1,Urban,Graduate,No,Approved
+72377,16875,20000,300,1,Urban,Not Graduate,Yes,Approved
+44250,10480,21141,360,1,Rural,Graduate,No,Approved
+41300,0,22406,360,1,Urban,Not Graduate,No,Rejected
+61077,23152,42376,120,1,Urban,Graduate,No,Approved
+25082,0,20000,300,1,Urban,Graduate,No,Approved
+55230,0,30143,420,1,Rural,Not Graduate,No,Rejected
+116800,19373,57911,180,1,Semiurban,Graduate,No,Approved
+58324,5376,20000,300,1,Urban,Not Graduate,Yes,Rejected
+38926,17397,20870,300,1,Urban,Not Graduate,No,Approved
+36556,21957,20000,360,0,Semiurban,Graduate,No,Approved
+38294,35630,20000,360,1,Semiurban,Not Graduate,No,Approved
+41279,14239,20000,300,0,Urban,Not Graduate,No,Rejected
+38896,0,20000,360,0,Semiurban,Graduate,No,Rejected
+72390,0,38300,360,1,Semiurban,Graduate,No,Approved
+20294,0,20000,300,1,Rural,Graduate,No,Approved
+70528,0,20000,420,1,Rural,Not Graduate,No,Approved
+38861,0,20000,420,1,Urban,Not Graduate,No,Approved
+55878,0,20000,180,0,Rural,Not Graduate,No,Approved
+27148,22607,20000,360,1,Rural,Graduate,No,Approved
+88234,51380,35129,240,1,Urban,Graduate,No,Approved
+84788,37783,25129,240,1,Urban,Graduate,No,Approved
+73910,0,20000,360,0,Rural,Graduate,Yes,Rejected
+22537,9529,20000,360,1,Semiurban,Graduate,No,Approved
+69423,0,20000,360,1,Urban,Graduate,No,Approved
+56632,0,20000,300,1,Semiurban,Graduate,No,Approved
+21579,0,20000,300,1,Semiurban,Graduate,No,Approved
+46089,0,20000,420,0,Semiurban,Graduate,No,Rejected
+55547,0,20000,420,1,Rural,Graduate,No,Approved
+60896,5599,22462,180,1,Urban,Graduate,No,Approved
+50771,29430,20815,360,1,Rural,Graduate,Yes,Rejected
+53626,9251,20933,360,1,Semiurban,Not Graduate,No,Approved
+94592,0,20000,360,0,Rural,Graduate,Yes,Approved
+83994,12517,37818,360,1,Rural,Graduate,No,Approved
+12000,14987,20000,360,1,Rural,Graduate,No,Approved
+40040,0,20000,180,1,Urban,Graduate,No,Approved
+43087,16109,21030,360,1,Rural,Graduate,No,Approved
+20110,67681,26079,420,1,Rural,Graduate,Yes,Approved
+48786,47550,24813,240,1,Rural,Graduate,No,Approved
+84915,0,20000,240,1,Urban,Graduate,No,Approved
+27680,17717,20000,360,0,Semiurban,Graduate,No,Rejected
+54801,0,20000,360,1,Urban,Graduate,No,Approved
+30044,0,20000,360,1,Urban,Graduate,No,Approved
+33775,0,20000,360,0,Semiurban,Graduate,No,Rejected
+94764,17082,20000,360,1,Semiurban,Graduate,No,Approved
+35939,0,20000,240,1,Rural,Graduate,Yes,Rejected
+58213,0,22906,360,0,Urban,Graduate,No,Rejected
+18993,0,20000,360,1,Urban,Graduate,No,Approved
+113995,19074,61321,360,1,Rural,Graduate,No,Approved
+62272,4074,34619,300,1,Semiurban,Graduate,No,Approved
+42719,27618,37326,240,1,Rural,Graduate,No,Approved
+61467,0,20000,360,0,Semiurban,Graduate,No,Rejected
+23701,0,20000,300,0,Urban,Graduate,Yes,Rejected
+82258,27962,41209,120,1,Urban,Graduate,No,Approved
+39914,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+42279,12814,20938,360,1,Urban,Graduate,No,Approved
+36828,11445,20000,300,1,Urban,Graduate,No,Approved
+35288,19694,20000,120,1,Rural,Not Graduate,No,Approved
+65085,13540,20000,120,1,Semiurban,Graduate,No,Approved
+52724,8296,20000,360,1,Semiurban,Graduate,No,Approved
+63757,0,20000,360,1,Urban,Graduate,No,Approved
+46434,22873,35820,240,1,Urban,Not Graduate,No,Approved
+59655,0,20000,360,1,Rural,Graduate,No,Approved
+38137,6705,20000,240,1,Rural,Not Graduate,Yes,Approved
+135981,0,71575,180,1,Rural,Graduate,No,Approved
+21969,0,20000,300,1,Rural,Graduate,Yes,Approved
+85413,13194,33250,360,0,Semiurban,Graduate,No,Rejected
+89913,0,37143,240,0,Urban,Not Graduate,No,Rejected
+30976,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+135951,26720,51232,360,1,Urban,Not Graduate,No,Approved
+75195,0,35168,360,1,Semiurban,Graduate,Yes,Rejected
+74321,10952,37129,240,1,Semiurban,Graduate,No,Approved
+47261,0,21920,120,0,Urban,Graduate,No,Approved
+42013,0,22868,120,0,Semiurban,Graduate,No,Approved
+42171,0,20000,360,1,Semiurban,Graduate,No,Approved
+56244,68212,54287,360,1,Urban,Not Graduate,No,Rejected
+91361,6587,36363,240,1,Semiurban,Graduate,No,Approved
+50870,0,20347,360,0,Rural,Graduate,No,Rejected
+30107,23694,23293,360,1,Semiurban,Graduate,No,Approved
+69267,21872,39862,120,1,Urban,Graduate,No,Rejected
+72559,12756,42537,120,0,Semiurban,Graduate,Yes,Rejected
+63846,32179,24697,240,0,Urban,Not Graduate,No,Rejected
+66692,6050,28665,180,1,Semiurban,Graduate,No,Approved
+40944,17222,20000,360,1,Semiurban,Graduate,No,Approved
+29854,12152,20000,120,1,Urban,Graduate,No,Approved
+30738,11225,20000,360,1,Semiurban,Graduate,Yes,Approved
+21268,0,20000,360,1,Semiurban,Graduate,No,Rejected
+52247,0,20000,360,0,Rural,Graduate,Yes,Approved
+44799,14182,20000,360,1,Semiurban,Graduate,No,Approved
+37752,0,20000,360,1,Semiurban,Graduate,No,Approved
+12000,0,20000,420,1,Rural,Not Graduate,No,Rejected
+25624,0,20000,420,1,Semiurban,Graduate,No,Approved
+79858,0,40764,360,1,Rural,Graduate,No,Approved
+33894,14623,20000,240,0,Rural,Not Graduate,No,Approved
+55442,11074,35828,360,1,Semiurban,Graduate,No,Approved
+23920,24342,20000,300,1,Rural,Not Graduate,No,Approved
+93021,0,39569,360,0,Semiurban,Not Graduate,No,Approved
+43515,5923,20000,360,1,Urban,Not Graduate,Yes,Approved
+53595,0,22166,360,1,Semiurban,Graduate,No,Approved
+142397,24277,64966,360,0,Rural,Graduate,No,Approved
+96557,10191,44625,300,1,Semiurban,Graduate,Yes,Rejected
+40249,22280,31733,360,1,Rural,Graduate,No,Approved
+35075,31153,23416,300,1,Semiurban,Not Graduate,No,Approved
+39884,7408,20000,360,1,Urban,Graduate,No,Approved
+59561,6714,20000,360,1,Semiurban,Not Graduate,No,Approved
+44333,58227,42942,120,1,Semiurban,Graduate,No,Approved
+38572,23066,20000,360,1,Urban,Graduate,No,Approved
+94301,0,32708,240,0,Rural,Graduate,No,Rejected
+44143,9379,20000,360,1,Urban,Not Graduate,No,Approved
+140618,0,38274,360,1,Urban,Graduate,No,Approved
+48706,0,21833,360,1,Semiurban,Not Graduate,No,Rejected
+109859,33469,60999,360,1,Rural,Graduate,Yes,Rejected
+55355,10470,27741,360,1,Rural,Not Graduate,No,Approved
+74030,0,31232,360,1,Urban,Graduate,No,Approved
+32932,0,20000,360,1,Rural,Not Graduate,No,Approved
+30952,0,20000,360,1,Urban,Graduate,No,Rejected
+58143,13381,38278,360,0,Semiurban,Graduate,No,Rejected
+74945,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+47540,16572,24643,360,0,Semiurban,Graduate,No,Approved
+25148,16009,20000,240,1,Rural,Graduate,No,Approved
+24272,32123,20000,300,1,Semiurban,Not Graduate,No,Approved
+23505,4815,20000,300,1,Urban,Graduate,No,Approved
+19961,0,20000,240,0,Rural,Not Graduate,No,Rejected
+49146,0,20000,360,1,Urban,Graduate,No,Approved
+80019,43323,62794,240,1,Urban,Not Graduate,Yes,Approved
+46331,0,20000,360,1,Rural,Graduate,No,Rejected
+15756,0,20000,180,1,Semiurban,Graduate,No,Approved
+42550,0,20000,300,1,Rural,Not Graduate,No,Approved
+43125,0,20000,360,0,Semiurban,Graduate,No,Rejected
+127526,10511,20000,360,1,Urban,Graduate,No,Approved
+23169,5676,20000,360,1,Urban,Graduate,No,Approved
+38657,8210,20000,360,0,Urban,Graduate,No,Rejected
+105747,18104,22038,420,1,Rural,Graduate,No,Approved
+57872,10127,25087,360,1,Semiurban,Graduate,Yes,Approved
+61108,0,21712,180,1,Rural,Graduate,No,Approved
+49267,5086,24357,180,1,Urban,Not Graduate,No,Approved
+54632,4069,20000,420,1,Rural,Graduate,No,Rejected
+67728,0,20000,360,1,Rural,Graduate,No,Approved
+31617,33951,34623,360,1,Rural,Graduate,No,Approved
+71073,0,25057,360,1,Rural,Graduate,No,Approved
+24124,0,20000,240,1,Rural,Graduate,No,Rejected
+54591,0,25621,360,1,Rural,Graduate,No,Approved
+50807,0,20000,360,1,Urban,Not Graduate,No,Approved
+34689,0,20000,360,1,Urban,Graduate,Yes,Rejected
+46125,38817,35448,300,0,Rural,Graduate,No,Rejected
+34585,10813,24332,360,1,Urban,Graduate,Yes,Approved
+27878,0,20000,240,1,Semiurban,Not Graduate,No,Rejected
+39351,17810,20000,420,1,Urban,Graduate,No,Approved
+27449,0,20000,300,1,Semiurban,Graduate,Yes,Approved
+54445,13727,20000,360,1,Semiurban,Not Graduate,No,Approved
+26848,0,20000,300,1,Semiurban,Graduate,No,Approved
+65627,0,24215,360,1,Rural,Graduate,No,Approved
+26447,8657,20000,360,1,Semiurban,Graduate,No,Approved
+35532,31611,20000,300,0,Urban,Graduate,Yes,Approved
+34551,9105,20000,360,1,Urban,Not Graduate,No,Approved
+88086,15479,20000,360,0,Semiurban,Graduate,No,Rejected
+54641,14666,20000,360,1,Semiurban,Not Graduate,No,Approved
+42124,0,21404,300,1,Urban,Graduate,Yes,Approved
+59242,0,20000,360,1,Rural,Not Graduate,No,Approved
+16959,0,20000,360,1,Rural,Not Graduate,No,Rejected
+45675,0,21798,360,1,Semiurban,Graduate,No,Approved
+121638,0,52392,360,1,Rural,Graduate,No,Approved
+49688,12904,20000,360,1,Semiurban,Graduate,No,Approved
+48175,0,23545,240,0,Rural,Not Graduate,No,Rejected
+60664,68848,56198,360,1,Semiurban,Graduate,No,Approved
+71675,14852,37589,240,1,Urban,Graduate,No,Rejected
+17876,42924,30747,300,1,Urban,Not Graduate,No,Approved
+20795,18533,20000,240,1,Semiurban,Not Graduate,No,Approved
+51583,0,20000,240,1,Semiurban,Graduate,Yes,Approved
+33086,0,20000,360,1,Urban,Not Graduate,Yes,Approved
+87533,32647,36596,360,0,Urban,Graduate,No,Rejected
+40083,11160,23839,120,1,Semiurban,Graduate,No,Approved
+18424,0,20000,360,1,Rural,Not Graduate,No,Approved
+25371,0,20000,360,1,Semiurban,Graduate,No,Approved
+12458,19337,20000,360,1,Semiurban,Graduate,No,Approved
+41673,15451,20000,360,0,Urban,Not Graduate,No,Rejected
+42599,0,22980,420,0,Urban,Graduate,No,Rejected
+38035,44950,20000,360,1,Urban,Graduate,No,Approved
+78265,9108,36973,420,0,Urban,Graduate,No,Approved
+82892,0,20000,420,1,Semiurban,Graduate,No,Approved
+42968,6599,26538,300,1,Urban,Graduate,No,Approved
+16736,0,20000,360,1,Urban,Not Graduate,Yes,Rejected
+62711,22321,20000,360,1,Rural,Graduate,No,Approved
+60875,25232,20000,360,1,Semiurban,Graduate,No,Approved
+54096,0,20000,360,1,Rural,Graduate,No,Approved
+74691,18019,50436,360,1,Semiurban,Graduate,No,Approved
+26659,25757,28352,360,1,Semiurban,Graduate,No,Approved
+122296,15109,34595,360,1,Semiurban,Not Graduate,No,Approved
+29421,0,20000,360,1,Rural,Not Graduate,No,Approved
+66811,90970,22911,360,1,Rural,Graduate,No,Approved
+20745,9293,20000,360,1,Rural,Not Graduate,No,Rejected
+29836,8818,20000,360,1,Semiurban,Graduate,No,Approved
+96554,0,20564,420,0,Urban,Graduate,No,Approved
+41141,55511,36288,240,1,Urban,Graduate,No,Approved
+69784,37408,54117,420,1,Semiurban,Graduate,No,Approved
+52247,16402,20000,180,0,Rural,Not Graduate,No,Approved
+44339,18501,20000,360,1,Urban,Graduate,No,Approved
+89738,0,20000,180,1,Rural,Not Graduate,Yes,Approved
+41623,0,20000,360,1,Urban,Graduate,No,Approved
+19836,13823,20000,360,1,Urban,Graduate,No,Approved
+31712,15032,20000,180,0,Semiurban,Graduate,No,Rejected
+60753,0,20000,360,1,Rural,Not Graduate,No,Approved
+56379,15810,31210,360,1,Rural,Graduate,No,Approved
+21978,15299,20000,240,1,Semiurban,Graduate,No,Approved
+32936,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+35269,0,20000,240,1,Urban,Graduate,No,Approved
+39127,57099,20000,240,1,Semiurban,Graduate,No,Approved
+24090,27169,20000,240,1,Semiurban,Not Graduate,No,Approved
+34489,0,20000,360,1,Rural,Graduate,No,Approved
+32868,15679,25870,360,1,Semiurban,Graduate,No,Approved
+67531,10988,41855,360,1,Rural,Graduate,No,Approved
+68760,28504,26443,360,1,Urban,Graduate,No,Approved
+43478,20330,20000,360,1,Semiurban,Graduate,No,Approved
+38631,6662,20000,360,1,Urban,Graduate,No,Approved
+49869,14333,20000,420,1,Semiurban,Graduate,No,Approved
+31509,0,20000,360,1,Rural,Graduate,No,Approved
+26890,12615,20000,240,1,Urban,Graduate,No,Rejected
+29694,0,20000,240,1,Urban,Graduate,No,Approved
+34382,25232,20000,360,0,Urban,Graduate,No,Rejected
+26676,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+50402,21685,20000,240,1,Urban,Not Graduate,No,Approved
+66189,0,32137,360,1,Rural,Graduate,No,Approved
+21768,0,20000,420,1,Semiurban,Graduate,No,Approved
+47196,0,20000,300,1,Urban,Graduate,No,Approved
+41958,18199,20000,240,1,Rural,Not Graduate,No,Approved
+54936,6926,20000,240,0,Urban,Graduate,No,Rejected
+46341,0,20000,360,1,Semiurban,Graduate,No,Rejected
+23208,14382,20000,360,1,Rural,Graduate,No,Rejected
+25439,24087,20000,360,1,Rural,Graduate,No,Approved
+47293,0,20000,180,1,Urban,Graduate,No,Approved
+76406,12005,41075,360,1,Urban,Graduate,No,Approved
+16110,0,20000,180,1,Semiurban,Not Graduate,No,Rejected
+55047,0,28972,360,0,Rural,Not Graduate,No,Rejected
+82538,2419,24821,360,0,Rural,Graduate,No,Approved
+43328,0,20000,360,0,Rural,Graduate,Yes,Rejected
+60724,38380,39583,360,0,Urban,Not Graduate,Yes,Approved
+33274,5557,20000,360,1,Rural,Not Graduate,No,Approved
+44033,19514,20000,120,1,Rural,Not Graduate,No,Approved
+21417,54703,25761,360,1,Rural,Not Graduate,No,Approved
+15134,10589,20000,120,1,Semiurban,Graduate,No,Approved
+73316,18061,28127,300,1,Urban,Graduate,No,Approved
+29062,0,20000,360,1,Semiurban,Graduate,Yes,Approved
+37472,0,20499,360,1,Semiurban,Graduate,No,Rejected
+23969,17012,20000,240,0,Urban,Graduate,Yes,Rejected
+23700,0,20000,360,1,Semiurban,Graduate,Yes,Rejected
+42897,0,20000,360,1,Urban,Graduate,No,Approved
+32853,0,20000,420,1,Semiurban,Graduate,No,Approved
+55906,9770,30061,360,1,Rural,Graduate,No,Approved
+57943,0,20000,120,1,Urban,Graduate,No,Approved
+54394,0,20923,360,1,Semiurban,Graduate,No,Approved
+52288,0,23035,240,1,Semiurban,Graduate,No,Approved
+99442,0,43313,180,1,Rural,Graduate,No,Approved
+27933,17374,20000,360,1,Semiurban,Graduate,Yes,Approved
+45417,0,20000,360,1,Urban,Graduate,No,Approved
+80313,55904,33735,120,1,Rural,Graduate,No,Approved
+85561,20409,33479,360,1,Rural,Not Graduate,No,Approved
+23566,0,20000,360,1,Rural,Graduate,No,Approved
+40138,11059,24402,360,0,Semiurban,Graduate,No,Approved
+89491,4805,42062,300,1,Urban,Not Graduate,Yes,Approved
+59509,8353,27434,360,1,Semiurban,Graduate,No,Approved
+51212,0,20000,180,0,Urban,Not Graduate,No,Rejected
+42004,0,20000,300,1,Semiurban,Graduate,No,Approved
+38784,29986,20000,300,1,Semiurban,Graduate,Yes,Approved
+53549,16908,20000,300,1,Rural,Graduate,No,Approved
+41310,13328,20000,240,1,Rural,Graduate,No,Approved
+45687,9232,20000,240,1,Urban,Not Graduate,No,Approved
+48423,0,20000,360,1,Rural,Graduate,No,Approved
+33675,15802,20000,360,0,Rural,Graduate,No,Approved
+60200,79296,20000,360,1,Urban,Graduate,No,Approved
+188874,47833,52486,420,0,Semiurban,Not Graduate,No,Rejected
+19872,0,20000,300,1,Rural,Graduate,No,Approved
+54477,0,21172,360,1,Urban,Graduate,No,Approved
+32374,11290,20000,360,1,Semiurban,Not Graduate,No,Approved
+61522,17053,20000,360,1,Urban,Graduate,No,Approved
+47684,17288,20000,300,1,Urban,Graduate,No,Approved
+67218,0,35697,360,1,Rural,Graduate,No,Approved
+81981,0,29757,360,1,Rural,Graduate,No,Approved
+51142,21169,29329,360,1,Rural,Not Graduate,No,Approved
+80289,27766,36642,360,0,Urban,Graduate,No,Approved
+15135,18014,20000,360,1,Semiurban,Not Graduate,Yes,Approved
+100049,19480,60167,300,1,Urban,Graduate,No,Approved
+55828,0,20000,360,1,Semiurban,Graduate,No,Approved
+78227,19429,40089,240,1,Semiurban,Graduate,No,Approved
+25964,25796,20000,360,0,Rural,Graduate,No,Approved
+31296,22682,21231,360,1,Rural,Graduate,No,Approved
+50014,26880,21501,360,0,Semiurban,Graduate,No,Approved
+46250,48476,20000,360,1,Semiurban,Graduate,No,Approved
+53416,34748,46726,120,0,Urban,Not Graduate,Yes,Approved
+78478,18957,47821,360,0,Rural,Graduate,No,Approved
+19984,7941,20000,360,1,Urban,Graduate,No,Approved
+74417,11849,47359,360,1,Rural,Graduate,No,Approved
+46816,15464,20000,360,1,Urban,Graduate,No,Approved
+42285,21518,20000,420,1,Rural,Graduate,No,Approved
+23014,12902,20000,360,1,Semiurban,Not Graduate,No,Approved
+59365,9367,20000,360,1,Rural,Graduate,No,Approved
+14636,7850,20000,360,1,Rural,Graduate,Yes,Approved
+63655,0,25431,300,0,Semiurban,Graduate,No,Rejected
+22783,15299,20000,240,1,Semiurban,Graduate,No,Approved
+47842,6446,20000,420,1,Semiurban,Graduate,No,Approved
+44038,0,20000,360,1,Semiurban,Graduate,No,Approved
+81747,13688,38608,420,1,Urban,Graduate,No,Approved
+42798,7079,20000,240,1,Semiurban,Graduate,No,Rejected
+33417,0,20000,120,1,Semiurban,Not Graduate,No,Approved
+36564,30277,28081,360,1,Urban,Graduate,No,Approved
+85904,12276,20000,420,1,Urban,Graduate,No,Approved
+60320,13281,21338,240,1,Semiurban,Graduate,No,Approved
+38750,0,20000,180,1,Semiurban,Graduate,No,Approved
+41627,10940,23364,180,0,Rural,Graduate,No,Rejected
+21977,0,20000,360,1,Semiurban,Graduate,No,Approved
+56189,41671,47305,360,1,Semiurban,Graduate,No,Approved
+20036,0,20000,360,1,Urban,Graduate,No,Approved
+66894,27476,23846,180,1,Urban,Graduate,Yes,Approved
+49600,34474,37305,360,1,Rural,Not Graduate,No,Approved
+146640,4518,64655,360,1,Rural,Not Graduate,No,Approved
+27500,46522,27418,240,0,Semiurban,Not Graduate,Yes,Approved
+44388,23729,23931,300,1,Semiurban,Graduate,No,Approved
+110545,36591,63359,360,1,Semiurban,Graduate,Yes,Approved
+82608,0,45407,300,1,Semiurban,Graduate,No,Approved
+33384,18662,20000,420,0,Semiurban,Graduate,No,Approved
+51922,14873,30988,360,1,Urban,Not Graduate,No,Approved
+46675,23318,30442,360,1,Semiurban,Graduate,No,Approved
+53388,14498,32932,360,1,Rural,Graduate,No,Approved
+33344,33107,35188,360,1,Semiurban,Not Graduate,No,Approved
+44673,5940,20000,120,1,Semiurban,Graduate,No,Approved
+21654,12344,20000,360,1,Rural,Graduate,No,Approved
+49755,0,20000,300,0,Rural,Graduate,No,Approved
+57873,11635,21004,360,1,Semiurban,Graduate,No,Approved
+41808,15259,20363,360,0,Urban,Not Graduate,No,Rejected
+21478,9722,20000,360,1,Urban,Graduate,No,Rejected
+74944,22813,50762,360,1,Semiurban,Graduate,Yes,Rejected
+55546,0,20000,240,1,Rural,Graduate,Yes,Approved
+32909,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+40754,32670,20000,300,1,Semiurban,Not Graduate,No,Approved
+22690,11058,20000,360,1,Urban,Not Graduate,No,Approved
+28504,0,20000,360,1,Semiurban,Not Graduate,No,Approved
+36021,0,20000,360,0,Urban,Graduate,No,Rejected
+84090,37740,42080,360,1,Urban,Graduate,Yes,Approved
+34305,19898,23359,360,1,Semiurban,Not Graduate,No,Approved
+63405,0,24872,180,1,Rural,Graduate,Yes,Approved
+36012,0,20000,300,0,Semiurban,Graduate,No,Approved
+52523,22639,20000,180,1,Semiurban,Graduate,No,Approved
+43570,0,20000,120,1,Semiurban,Graduate,No,Approved
+70903,16849,47200,360,1,Urban,Graduate,No,Approved
+36073,48944,43788,360,1,Rural,Not Graduate,No,Approved
+21921,0,20000,360,1,Semiurban,Graduate,No,Rejected
+24021,50758,20000,360,1,Rural,Graduate,No,Approved
+36123,0,20000,360,1,Rural,Graduate,No,Approved
+25603,0,20000,360,1,Semiurban,Graduate,No,Approved
+56778,25362,21403,360,1,Urban,Graduate,Yes,Approved
+37288,7563,20000,360,1,Semiurban,Graduate,Yes,Approved
+145774,6366,42791,360,1,Semiurban,Graduate,Yes,Rejected
+20250,0,20000,300,1,Rural,Graduate,No,Rejected
+51418,0,20000,420,0,Semiurban,Graduate,No,Rejected
+27135,33940,20000,120,0,Semiurban,Graduate,No,Rejected
+36797,25540,24715,360,0,Urban,Graduate,No,Approved
+49905,26163,25634,360,1,Semiurban,Graduate,No,Approved
+15273,0,20000,240,1,Urban,Graduate,Yes,Rejected
+52244,16756,24097,240,1,Urban,Graduate,No,Approved
+116238,6279,39416,360,1,Semiurban,Not Graduate,No,Approved
+37510,4437,20000,360,0,Semiurban,Graduate,No,Approved
+52823,0,28006,420,1,Urban,Graduate,No,Approved
+76264,10645,20000,360,0,Urban,Graduate,No,Approved
+43101,0,21454,360,1,Semiurban,Graduate,No,Approved
+35282,39177,31061,420,1,Semiurban,Graduate,No,Approved
+15641,11690,20000,360,1,Semiurban,Graduate,No,Approved
+63429,27261,24344,360,0,Urban,Graduate,No,Approved
+44165,11352,20000,300,1,Urban,Graduate,No,Approved
+28679,4954,20000,360,1,Urban,Not Graduate,No,Rejected
+49551,19660,37512,120,0,Rural,Graduate,No,Approved
+35236,12970,20000,120,1,Rural,Not Graduate,No,Approved
+36183,13252,20000,360,1,Urban,Not Graduate,No,Approved
+62381,0,21502,180,1,Semiurban,Graduate,No,Rejected
+24528,6197,20000,360,1,Urban,Graduate,No,Rejected
+77089,23577,20000,360,1,Semiurban,Graduate,No,Approved
+23840,8988,20000,120,1,Urban,Graduate,Yes,Approved
+33925,34057,22530,360,1,Urban,Graduate,No,Approved
+117361,22223,63397,360,1,Rural,Graduate,No,Approved
+80108,0,31758,360,1,Rural,Graduate,No,Rejected
+48867,9308,21562,300,1,Urban,Graduate,Yes,Approved
+29689,0,20000,420,0,Rural,Graduate,No,Approved
+36169,0,20000,360,0,Urban,Graduate,No,Rejected
+48299,62290,45441,360,1,Semiurban,Not Graduate,No,Approved
+47477,0,20036,360,1,Semiurban,Graduate,No,Approved
+44640,0,20000,360,1,Rural,Graduate,No,Approved
+45945,22863,20000,360,1,Urban,Graduate,No,Approved
+42070,0,20000,300,1,Urban,Not Graduate,No,Rejected
+23338,19374,20000,420,0,Urban,Graduate,No,Rejected
+36391,0,20000,360,0,Urban,Graduate,No,Approved
+72332,10740,20000,360,1,Semiurban,Not Graduate,No,Approved
+24178,17510,20000,360,1,Urban,Graduate,No,Approved
+42575,0,20000,360,1,Semiurban,Graduate,No,Approved
+31461,23816,20000,360,1,Semiurban,Graduate,No,Approved
+49190,10546,20000,360,1,Rural,Graduate,No,Approved
+38695,10233,20000,120,1,Semiurban,Graduate,No,Approved
+94764,0,51637,180,1,Urban,Graduate,No,Approved
+59466,41526,23869,300,1,Semiurban,Graduate,Yes,Approved
+24843,51974,20000,360,0,Urban,Graduate,No,Approved
+64356,0,20000,360,1,Urban,Not Graduate,No,Approved
+32150,19816,20000,360,1,Semiurban,Not Graduate,No,Approved
+35350,0,20000,360,1,Rural,Graduate,No,Approved
+54211,46430,45477,300,0,Urban,Graduate,Yes,Rejected
+36826,0,20000,360,1,Rural,Graduate,No,Rejected
+71580,0,27321,360,1,Urban,Graduate,No,Approved
+32152,8747,20000,360,0,Semiurban,Graduate,Yes,Rejected
+34645,25447,28900,180,1,Semiurban,Graduate,No,Approved
+34028,15929,20000,180,1,Semiurban,Graduate,No,Approved
+35543,17703,20000,240,1,Semiurban,Graduate,No,Approved
+79032,38207,48843,360,1,Semiurban,Graduate,No,Approved
+63059,0,29577,360,1,Semiurban,Graduate,Yes,Approved
+105955,0,32788,300,0,Semiurban,Graduate,No,Approved
+138478,4665,77904,180,1,Urban,Graduate,No,Approved
+28432,0,20000,300,1,Rural,Graduate,No,Rejected
+48233,29328,20000,360,0,Semiurban,Graduate,Yes,Approved
+26514,0,20000,420,1,Rural,Graduate,No,Approved
+32104,0,20000,360,1,Semiurban,Graduate,No,Rejected
+34460,0,20000,180,1,Rural,Not Graduate,No,Approved
+28073,0,20000,360,1,Urban,Not Graduate,No,Approved
+28144,0,20000,360,1,Rural,Graduate,No,Rejected
+43510,74296,44165,360,1,Urban,Graduate,Yes,Approved
+26003,0,20000,360,1,Rural,Graduate,No,Approved
+69858,26071,20000,420,1,Semiurban,Graduate,No,Approved
+30016,26666,20000,360,1,Rural,Graduate,No,Approved
+179619,23655,103389,420,1,Urban,Graduate,Yes,Approved
+37547,23844,25802,120,1,Urban,Graduate,No,Approved
+48270,0,20000,360,1,Rural,Graduate,No,Approved
+25040,0,20000,360,1,Urban,Graduate,Yes,Approved
+105760,0,49919,360,1,Semiurban,Graduate,No,Approved
+79807,8586,30585,360,1,Semiurban,Graduate,No,Approved
+53773,31477,20000,360,0,Urban,Graduate,Yes,Rejected
+24429,0,20000,240,1,Rural,Graduate,No,Approved
+51592,22482,20000,360,1,Semiurban,Graduate,No,Rejected
+27220,39815,20000,360,0,Rural,Graduate,No,Rejected
+94083,20571,43914,360,0,Urban,Graduate,No,Approved
+68762,20751,45724,360,1,Semiurban,Graduate,No,Approved
+48816,19631,20000,360,1,Urban,Not Graduate,No,Approved
+14480,4391,20000,240,1,Rural,Graduate,No,Approved
+29084,17047,23677,300,0,Urban,Graduate,No,Rejected
+64869,0,20000,360,1,Rural,Graduate,Yes,Approved
+83465,0,20000,360,1,Semiurban,Graduate,No,Approved
+79412,49208,53948,360,1,Semiurban,Graduate,No,Rejected
+21717,25667,20876,240,1,Rural,Not Graduate,Yes,Approved
+53892,0,20000,360,1,Rural,Graduate,No,Approved
+75921,12145,34834,360,1,Semiurban,Not Graduate,No,Approved
+21036,0,20000,120,1,Rural,Graduate,No,Approved
+46453,36098,35736,300,1,Semiurban,Graduate,Yes,Rejected
+53180,0,22516,360,0,Urban,Not Graduate,No,Approved
+40362,17973,20000,360,1,Semiurban,Graduate,No,Approved
+19167,33112,20000,180,1,Rural,Not Graduate,No,Approved
+39881,0,20000,240,1,Rural,Graduate,No,Approved
+39851,0,20707,120,1,Rural,Graduate,No,Rejected
+43431,13353,29022,180,1,Semiurban,Graduate,No,Approved
+35580,0,20000,300,1,Urban,Graduate,No,Approved
+37698,0,20000,360,1,Semiurban,Not Graduate,No,Approved
